@@ -1,0 +1,87 @@
+{
+    "os": "Windows Vista / Windows 7",
+    "client": "Gajim",
+    "client-version": "0.13.2",
+    "tutorial": [
+        {
+            "image":    "win7-gajim1.png",
+            "text":     "Gehe auf die Webseite http://gajim.org/downloads.php?lang=de#windows und lade dir dort die Windows-Installationsdatei für Gajim herunter."
+        },
+        {
+            "image":    "win7-gajim2.png",
+            "text":     "Wähle nun die Sprache für den Installationsprozess aus."
+        },
+        {
+            "image":    "win7-gajim3.png",
+            "text":     "Die Installation startet. Es geht weiter mit einem Klick auf \"Weiter\"."
+        },
+        {
+            "image":    "win7-gajim4.png",
+            "text":     "In diesem Fenster wird die Lizenz unter der Gajim veröffentlicht wird angezeigt. Klicke auf \"Annehmen\"."
+        },
+        {
+            "image":    "win7-gajim5.png",
+            "text":     "Wähle nun Komponenten aus die du mitinstallieren möchtest. Im Regelfall können hier die Standardeinstellungen beibehalten werden. Klicke auf \"Weiter\"."
+        },
+        {
+            "image":    "win7-gajim6.png",
+            "text":     "Nun musst du das Installationsverzeichnis für Gajim wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke auf \"Weiter\"."
+        },
+        {
+            "image":    "win7-gajim7.png",
+            "text":     "Bestimme nun noch den Eintrag für das Startmenü. Auch hier gilt im Zweifelsfall die Standardeinstellung zu behalten. Klicke auf \"Installieren\"."
+        },
+        {
+            "image":    "win7-gajim8.png",
+            "text":     "Die Installation ist abgeschlossen. Setze den Haken bei \"Gajim ausführen\" und klicke auf \"Fertigstellen\"."
+        },
+        {
+            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke hier.",
+            "morelink":     "Wenn du noch keinen Jabber-Account besitzt, klicke hier.",
+            "more": [
+                {
+                    "image":    "win7-gajim9-2.png",
+                    "text":     "Um ein neues Konto zu erstellen ist es nötig die im Bild angegebene Option zu wählen. Klicke auf \"Vor\"."
+                },
+                {
+                    "image":    "win7-gajim9-3.png",
+                    "text":     "Wähle nun einen Server aus. Entweder wählst du mittels des Pfeils einen Server oder du gibst {{ servername }} in das Feld ein. Klicke auf \"Vor\"."
+                },
+                {
+                    "image":    "win7-gajim9-4.png",
+                    "text":     "Gajim stellt nun eine Verbindung zum Server her. Bitte warten."
+                },
+                {
+                    "image":    "win7-gajim9-5.png",
+                    "text":     "Antwortet der Server, so kannst du nun deine Zugangsdaten in die Felder eingeben. Denke dir einen Benutzernamen und ein sicheres Passwort aus, dann klicke auf \"Vor\"."
+                },
+                {
+                    "image":    "win7-gajim9-6.png",
+                    "text":     "Wird der Benutzername schon von einer anderen Person genutzt, so erscheint diese Fehlermeldung. Klicke auf \"Zurück\" und wähle einen anderen Benutzernamen."
+                },
+                {
+                    "image":    "win7-gajim9-7.png",
+                    "text":     "Ist der Benutzername noch nicht vergeben worden, so erscheint nun diese Erfolgsmeldung. Klicke auf \"Beenden\" um dein Jabber-Konto zu nutzen."
+                }
+            ]
+        },
+        {
+            "image":    "win7-gajim9.png",
+            "text":     "Um ein bestehendes Jabber-Konto zu nutzen, wähle bitte die oben im Bild angegebene Option aus. Klicke uaf \"Vor\"."
+        },
+        {
+            "image":    "win7-gajim10.png",
+            "text":     "Trage bitte hier deine Zugangsdaten für deinen Jabber-Account, wie im Bild oben beschrieben, ein. Klicke auf \"Vor\"."
+        },
+        {
+            "image":    "win7-gajim11.png",
+            "text":     "Hast du deine Zugangsdaten richtig eingegeben, so erscheint diese Erfolgsmeldung. Klicke auf Beenden um dein Jabber-Konto zu nutzen."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "Description",
+            "url":      "http://example.com"
+        }
+    ]
+}

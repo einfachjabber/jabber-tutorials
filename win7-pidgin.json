@@ -1,0 +1,79 @@
+{
+    "os": "Windows Vista / Windows 7",
+    "client": "Pidgin",
+    "client-version": "2.6.5",
+    "tutorial": [
+        {
+            "image":    "win7-pidgin1.png",
+            "text":     "Besuche die Seite http://www.pidgin.im/download/windows, und lade dir Pidgin durch einen Klick auf \"Download Pidgin\" herunter."
+        },
+        {
+            "image":    "win7-pidgin2.png",
+            "text":     "Wähle die gewünschte Sprache aus und klicke auf \"OK\"."
+        },
+        {
+            "image":    "win7-pidgin3.png",
+            "text":     "In diesem Fenster einfach auf \"Weiter\" klicken um zum nächsten Schritt zu gelangen."
+        },
+        {
+            "image":    "win7-pidgin4.png",
+            "text":     "Der nächste Schritt zeigt die Lizenz, unter der Pidgin veröffentlicht ist. Da Pidgin Open Source ist, kann man hier beruhigt auf \"Weiter\" klicken."
+        },
+        {
+            "image":    "win7-pidgin5.png",
+            "text":     "Oben siehst du die Konfiguration der Installation. In der Regel können die Standardeinstellungen, die im Bild zu sehen sind, übernommen werden. Klicken nun auf \"Weiter\"."
+        },
+        {
+            "image":    "win7-pidgin6.png",
+            "text":     "Um Pidgin in das vorgeschlagene Verzeichnis zu installieren (empfohlen) klicke auf \"Installieren\"."
+        },
+        {
+            "image":    "win7-pidgin7.png",
+            "text":     "Nachdem das Installationsprogramm die Dateien auf die Festplatte kopiert hat, klicke bitte auf \"Weiter\"."
+        },
+        {
+            "image":    "win7-pidgin8.png",
+            "text":     "Die Installation ist damit bereits beendet. Um Pidgin sofort zu starten kannst du den Haken wie im Bild setzen und dann auf \"Fertig stellen\" klicken."
+        },
+        {
+            "image":    "win7-pidgin9.png",
+            "text":     "Beim ersten Start von Pidgin wirst du mit dem obigen Fenster begrüßt. Um Ihr Jabber-Konto einzurichten klicken Sie bitte auf \"Hinzufügen\"."
+        },
+        {
+            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier.",
+            "morelink":     "Wenn du noch keinen Jabber-Account hast, klicke bitte hier",
+            "more": [
+                {
+                    "image":    "win7-pidgin10-2.png",
+                    "text":     "Um einen neues Konto anzulegen, musst du dir einen Benutzernamen ausdenken und ihn in das Feld Benutzer eintragen. In das Feld Domain tippst du {{ servername }} ein. Im Feld Passwort fehlt noch ein sicheres Passwort und im unteren Teil des Fensters muss der Haken bei \"Dieses neue Konto auf dem Server anlegen\" gesetzt sein."
+                },
+                {
+                    "image":    "win7-pidgin10-3.png",
+                    "text":     "Um das Anlegen des neuen Kontos abzuschließen fehlen noch einige Angaben. Im Feld Username tippst du nochmals den im vorigen Schritt gewählten Benutzernamen. Full Name und Email müssen in der Regel nicht augefüllt werden. Passwort ist ebenfalls das selbe wie im Schritt vorher."
+                },
+                {
+                    "image":    "win7-pidgin10-4.png",
+                    "text":     "Falls dieses Fenster erscheint, ist der von dir gewählte Benutzername bereits vergeben. Klicken Sie auf \"Schließen\"."
+                },
+                {
+                    "image":    "win7-pidgin10-5.png",
+                    "text":     "Um einen anderen Benutzernamen zu wählen, klicke bitte auf \"Bearbeiten\" und du kommst zur bekannten Eingabemaske."
+                }
+            ]
+        },
+        {
+            "image":    "win7-pidgin10.png",
+            "text":     "Bitte wähle das Protokoll \"XMPP\" aus und trage deine Benutzerdaten in die entsprechenden Felder ein."
+        },
+        {
+            "image":    "win7-pidgin11.png",
+            "text":     "Um den Account zu aktivieren, musst du den Haken in der Spalte setzen. Nach einem Klick auf Schließen kannst du deinen Jabber Account bereits verwenden."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "Description",
+            "url":      "http://example.com"
+        }
+    ]
+}
