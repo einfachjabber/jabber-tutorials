@@ -40,7 +40,7 @@
             "text":     "Beim ersten Start von Pidgin wirst du mit dem obigen Fenster begrüßt. Um Ihr Jabber-Konto einzurichten klicken Sie bitte auf \"Hinzufügen\"."
         },
         {
-            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier.",
+            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier",
             "morelink":     "Wenn du noch keinen Jabber-Account hast, klicke bitte hier",
             "more": [
                 {

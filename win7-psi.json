@@ -34,6 +34,7 @@
         {
             "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke hier.",
             "morelink":     "Wenn du noch keinen Jabber-Account besitzt, klicke hier.",
+			"jumpto": "links",
             "more": [
                 {
                     "image":    "win7-psi8-2.png",
