@@ -46,6 +46,7 @@
 	{
 	  "defaultlink":	"Falls Sie bereits einen Jabber Account besitzen, bitte hier klicken",
 	  "morelink":	"Falls Sie noch keinen Jabber-Account besitzen, klicken Sie bitte hier",
+	  "jumpto": "12",
 	  "more": [
 		{
 		  "image":	"winxp-pidgin11-2.png",
