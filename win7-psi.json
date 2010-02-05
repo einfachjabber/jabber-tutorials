@@ -1,7 +1,7 @@
 {
     "os": "Windows Vista",
     "client": "Pidgin",
-    "client-version": "2.6.5",
+    "clientversion": "2.6.5",
     "tutorial": [
         {
             "image":    "win7-psi1.png",

@@ -1,7 +1,7 @@
 {
     "os": "Windows Vista / Windows 7",
     "client": "Gajim",
-    "client-version": "0.13.2",
+    "clientversion": "0.13.2",
     "tutorial": [
         {
             "image":    "win7-gajim1.png",

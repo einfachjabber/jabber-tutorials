@@ -1,7 +1,7 @@
 {
     "os": "Windows Vista / Windows 7",
     "client": "Pidgin",
-    "client-version": "2.6.5",
+    "clientversion": "2.6.5",
     "tutorial": [
         {
             "image":    "win7-pidgin1.png",

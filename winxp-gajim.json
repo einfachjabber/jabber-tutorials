@@ -1,7 +1,7 @@
 {
     "os": "Windows XP",
     "client": "Gajim",
-    "client-version": "0.13.2",
+    "clientversion": "0.13.2",
     "tutorial": [
         {
             "image":    "winxp-gajim1.png",

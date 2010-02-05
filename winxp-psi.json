@@ -1,7 +1,7 @@
 {
     "os": "Windows XP",
     "client": "PSI",
-    "client-version": "0.14",
+    "clientversion": "0.14",
     "tutorial": [
         {
             "image":    "winxp-psi1.png",
