@@ -2,6 +2,13 @@
     "os": "Windows XP",
     "client": "Gajim",
     "clientversion": "0.13.2",
+	"author": 
+		{
+			"name": "Sebastian Drews",
+			"email": "razibue@googlemail.com",
+			"website": "",
+			"jabber": "blackdeath@jabber.ccc.de"
+		},
     "tutorial": [
         {
             "image":    "winxp-gajim1.png",

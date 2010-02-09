@@ -1,7 +1,14 @@
 {
     "os": "Windows XP",
-    "client": "PSI",
+    "client": "Psi",
     "clientversion": "0.14",
+	"author": 
+		{
+			"name": "Sebastian Drews",
+			"email": "razibue@googlemail.com",
+			"website": "",
+			"jabber": "blackdeath@jabber.ccc.de"
+		},
     "tutorial": [
         {
             "image":    "winxp-psi1.png",

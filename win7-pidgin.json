@@ -1,7 +1,14 @@
 {
-    "os": "Windows Vista / Windows 7",
+    "os": "Windows Vista / 7",
     "client": "Pidgin",
     "clientversion": "2.6.5",
+	"author": 
+		{
+			"name": "Markus Dobmann",
+			"email": "jarwie@coustix.de",
+			"website": "",
+			"jabber": "jarwie@coustix.de"
+		},
     "tutorial": [
         {
             "image":    "win7-pidgin1.png",
@@ -21,7 +28,7 @@
         },
         {
             "image":    "win7-pidgin5.png",
-            "text":     "Oben siehst du die Konfiguration der Installation. In der Regel können die Standardeinstellungen, die im Bild zu sehen sind, übernommen werden. Klicken nun auf \"Weiter\"."
+            "text":     "Oben siehst du die Konfiguration der Installation. In der Regel können die Standardeinstellungen, die im Bild zu sehen sind, übernommen werden. Klicke nun auf \"Weiter\"."
         },
         {
             "image":    "win7-pidgin6.png",
@@ -37,11 +44,12 @@
         },
         {
             "image":    "win7-pidgin9.png",
-            "text":     "Beim ersten Start von Pidgin wirst du mit dem obigen Fenster begrüßt. Um Ihr Jabber-Konto einzurichten klicken Sie bitte auf \"Hinzufügen\"."
+            "text":     "Beim ersten Start von Pidgin wirst du mit dem obigen Fenster begrüßt. Um Dein Jabber-Konto einzurichten klicke bitte auf \"Hinzufügen\"."
         },
         {
             "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier",
             "morelink":     "Wenn du noch keinen Jabber-Account hast, klicke bitte hier",
+			"jumpto": "11",
             "more": [
                 {
                     "image":    "win7-pidgin10-2.png",

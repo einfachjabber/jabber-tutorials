@@ -1,7 +1,14 @@
 {
-    "os": "Windows Vista",
-    "client": "Pidgin",
-    "clientversion": "2.6.5",
+    "os": "Windows Vista / 7",
+    "client": "Psi",
+    "clientversion": "0.14",
+	"author": 
+		{
+			"name": "Markus Dobmann",
+			"email": "jarwie@coustix.de",
+			"website": "",
+			"jabber": "jarwie@coustix.de"
+		},
     "tutorial": [
         {
             "image":    "win7-psi1.png",
