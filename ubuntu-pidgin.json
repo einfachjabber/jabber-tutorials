@@ -10,7 +10,19 @@
 			"jabber": "blackdeath@jabber.ccc.de"
 		},
     "tutorial": [
-        {
+	{
+            "image":    "ubuntu-pidgin0-01.png",
+            "text":     "Um Pidgin zu installieren muss zunächst das Softwarecenter gestartet werden."
+        },
+	{
+            "image":    "ubuntu-pidgin0-02.png",
+            "text":     "Dann sucht man einfach nach Pidgin wählt mit Rechtklick \"Zum Installieren vormerken\" aus."
+        },        
+	{
+            "image":    "ubuntu-pidgin0-03.png",
+            "text":     "Nun muss nur noch auf Anwenden geklickt werden und die Installation läuft durch."
+        },	
+	{
             "image":    "ubuntu-pidgin0.png",
             "text":     "Den Anwendungsstarter für Pidgin findest du unter Anwendungen und dort bei Internet."
         },
