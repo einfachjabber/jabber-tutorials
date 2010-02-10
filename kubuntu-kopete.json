@@ -1,0 +1,55 @@
+{
+    "os": "Kubuntu",
+    "client": "Kopete",
+    "clientversion": "0.60.3",
+	"author": 
+		{
+			"name": "Sebastian Drews",
+			"email": "razibue@googlemail.com",
+			"website": "",
+			"jabber": "blackdeath@jabber.ccc.de"
+		},
+    "tutorial": [
+        {
+            "image":    "kubuntu-kopete0.png",
+            "text":     "Den Anwendungsstarter für Kopete, findest du, wenn du auf den Startbutton gehst, dann auf Programme klickst und dort in die Kategorie Internet gehst. Er heißt dort Instant Messanger."
+        },
+		{
+            "image":    "kubuntu-kopete1.png",
+            "text":     "Nach dem starten von Kopete, navigierst du zu Einstellungen -> Einrichten und klickst dort auf \"Zugang hinzufügen\"."
+        },
+        {
+            "image":    "kubuntu-kopete2.png",
+            "text":     "Wähle nun Jabber als Protokoll aus und klicke auf \"Weiter\"."
+        },
+        {
+            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke hier.",
+            "morelink":     "Wenn du noch keinen Jabber-Account besitzt, klicke hier.",
+			"jumpto": "ersetzemich",
+            "more": [
+                {
+                    "image":    "kubuntu-kopete4.png",
+                    "text":     "Um ein neues Konto zu erstellen ist es nötig die Felder hier auszufüllen. In die erste Zeile gibst du (( servername )) ein. In die zweite Zeile gibst du deinen freigewählten Benutzernamen, gefolgt vom in der ersten Zeile angegeben Servernamen ein. Dann noch zwei mal das Passwort eingeben und auf \"Registrieren\" klicken ."
+                },
+                {
+                    "image":    "kubuntu-kopete4-1.png",
+                    "text":     "Falls der von dir gewählte Benutzername schon vergeben ist, dann kommt diese Fehlermeldung. In diesem Fall solltest du einen anderen Benutzernamen wählen. Dazu musst du wieder einen neuen Zugang hinzufügen."
+                }
+            ]
+        },
+        {
+            "image":    "kubuntu-kopete3-1.png",
+            "text":     "Um ein bestehendes Jabber-Konto zu nutzen, trage einfach im oberen Bereich deinen Benutzernamen und dein Passwort ein. Klicke danach auf \"Weiter\"."
+        },
+        {
+            "image":    "kubuntu-kopete3-2.png",
+            "text":     "Es erscheint dieses Fenster, welches einfach mit einem Klick auf \"Abschließen\" geschlossen wird."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "Description",
+            "url":      "http://example.com"
+        }
+    ]
+}

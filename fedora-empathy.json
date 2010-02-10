@@ -11,8 +11,12 @@
 		},
     "tutorial": [
         {
+            "image":    "fedora-empathy0.png",
+            "text":     "Den Anwendungsstarter für Empathy findest du unter Anwendungen und dort bei Internet."
+        },
+		{
             "image":    "fedora-empathy1-2.png",
-            "text":     "Beim ersten Start von Empathy wirst du mit dem obigen Fenster begrüßt."
+            "text":     "Nach dem Start von Empathy wirst du mit dem obigen Fenster begrüßt."
         },
         {
             "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier",
@@ -22,7 +26,11 @@
                 {
                     "image":    "fedora-empathy1-3.png",
                     "text":     "Um einen neues Konto anzulegen, musst du dir einen Benutzernamen ausdenken und ihn in das Feld Jabber-Kennung eintragen und schreibst dahinter {{ servername }} , wie im Beispiel dort gezeigt. Im Feld Passwort fehlt nun noch ein sicheres Passwort. Nach einem Klick auf Anwenden kannst du deinen Jabber Account bereits verwenden."
-                }
+                },
+				{
+            "image":    "fedora-empathy1-4.png",
+            "text":     "Sollte der von dir gewählte Benutzername bereits vergeben sein, siehst du solch eine Fehlermeldung. In dem Falle musst du einen anderen wählen."
+        }
             ]
         },
         {
