@@ -1,0 +1,47 @@
+{
+    "os": "Ubuntu",
+    "client": "Pidgin",
+    "clientversion": "2.6.2",
+	"author": 
+		{
+			"name": "Sebastian Drews",
+			"email": "razibue@googlemail.com",
+			"website": "",
+			"jabber": "blackdeath@jabber.ccc.de"
+		},
+    "tutorial": [
+        {
+            "image":    "ubuntu-pidgin0.png",
+            "text":     "Den Anwendungsstarter für Pidgin findest du unter Anwendungen und dort bei Internet."
+        },
+		{
+            "image":    "ubuntu-pidgin1-2.png",
+            "text":     "Nach dem Start von Pidgin navigierst du zu Konten -> Konten verwalten und klickst dort auf \"Konto hinzufügen\"."
+        },
+        {
+            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier",
+            "morelink":     "Wenn du noch keinen Jabber-Account hast, klicke bitte hier",
+			"jumpto": "ersetzmich",
+            "more": [
+                {
+                    "image":    "ubuntu-pidgin2-1.png",
+                    "text":     "Um ein neues Konto anzulegen, wählst du als Protokoll XMPP und trägst deinen gewünschten Benutzernamen in das Feld Benutzer ein. In das Feld Domain trägst du (( servername )) ein. Das Feld Ressource kannst du freilassen. Im Feld Passwort fehlt nun noch ein sicheres Passwort. Ganz unten musst du noch ein Häckchen setzen bei \"Dieses neue Konto auf dem Server anlegen\" und danach einfach auf \"Hinzufügen\" klicken."
+                },
+				{
+            "image":    "ubuntu-pidgin2-2.png",
+            "text":     "Sollte der von dir gewählte Benutzername bereits vergeben sein, siehst du solch eine Fehlermeldung. In dem Fall musst du einen anderen wählen."
+        }
+            ]
+        },
+        {
+            "image":    "ubuntu-pidgin1.png",
+            "text":     "Als Protokoll wählst du XMPP und trägst deinen Benutzernamen in das Feld Benutzer ein. In das Feld Domain trägst du deinen Jabberserver ein und das Feld Ressource kannst du freilassen. Im Feld Passwort trägst du noch dein Passwort ein und klickst dann zum Abschluss auf \"Hinzufügen\"."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "Description",
+            "url":      "http://example.com"
+        }
+    ]
+}
