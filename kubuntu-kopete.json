@@ -25,7 +25,7 @@
         {
             "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke hier.",
             "morelink":     "Wenn du noch keinen Jabber-Account besitzt, klicke hier.",
-			"jumpto": "ersetzemich",
+			"jumpto": "links",
             "more": [
                 {
                     "image":    "kubuntu-kopete4.png",

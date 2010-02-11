@@ -11,15 +11,15 @@
 		},
     "tutorial": [
 	{
-            "image":    "ubuntu-pidgin0-01.png",
+            "image":    "ubuntu-pidgin0-1.png",
             "text":     "Um Pidgin zu installieren muss zunächst das Softwarecenter gestartet werden."
         },
 	{
-            "image":    "ubuntu-pidgin0-02.png",
+            "image":    "ubuntu-pidgin0-2.png",
             "text":     "Dann sucht man einfach nach Pidgin wählt mit Rechtklick \"Zum Installieren vormerken\" aus."
         },        
 	{
-            "image":    "ubuntu-pidgin0-03.png",
+            "image":    "ubuntu-pidgin0-3.png",
             "text":     "Nun muss nur noch auf Anwenden geklickt werden und die Installation läuft durch."
         },	
 	{
@@ -33,7 +33,7 @@
         {
             "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier",
             "morelink":     "Wenn du noch keinen Jabber-Account hast, klicke bitte hier",
-			"jumpto": "ersetzmich",
+			"jumpto": "links",
             "more": [
                 {
                     "image":    "ubuntu-pidgin2-1.png",
@@ -46,7 +46,7 @@
             ]
         },
         {
-            "image":    "ubuntu-pidgin1.png",
+            "image":    "ubuntu-pidgin3.png",
             "text":     "Als Protokoll wählst du XMPP und trägst deinen Benutzernamen in das Feld Benutzer ein. In das Feld Domain trägst du deinen Jabberserver ein und das Feld Ressource kannst du freilassen. Im Feld Passwort trägst du noch dein Passwort ein und klickst dann zum Abschluss auf \"Hinzufügen\"."
         }
     ],

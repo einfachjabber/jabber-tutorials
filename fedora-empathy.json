@@ -21,7 +21,7 @@
         {
             "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier",
             "morelink":     "Wenn du noch keinen Jabber-Account hast, klicke bitte hier",
-			"jumpto": "ersetzmich",
+			"jumpto": "links",
             "more": [
                 {
                     "image":    "fedora-empathy1-3.png",
