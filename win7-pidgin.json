@@ -16,7 +16,7 @@
         },
         {
             "image":    "win7-pidgin2.png",
-            "text":     "Wähle die gewünschte Sprache aus und klicke auf \"OK\"."
+            "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle die gewünschte Sprache aus und klicke auf \"OK\"."
         },
         {
             "image":    "win7-pidgin3.png",
@@ -24,7 +24,7 @@
         },
         {
             "image":    "win7-pidgin4.png",
-            "text":     "Der nächste Schritt zeigt die Lizenz, unter der Pidgin veröffentlicht ist. Da Pidgin Open Source ist, kann man hier beruhigt auf \"Weiter\" klicken."
+            "text":     "Der nächste Schritt zeigt die Lizenz, unter der Pidgin veröffentlicht ist. Da Pidgin Open Source ist, kannst du hier beruhigt auf \"Weiter\" klicken."
         },
         {
             "image":    "win7-pidgin5.png",
@@ -47,41 +47,18 @@
             "text":     "Beim ersten Start von Pidgin wirst du mit dem obigen Fenster begrüßt. Um Dein Jabber-Konto einzurichten klicke bitte auf \"Hinzufügen\"."
         },
         {
-            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier",
-            "morelink":     "Wenn du noch keinen Jabber-Account hast, klicke bitte hier",
-			"jumpto": "11",
-            "more": [
-                {
-                    "image":    "win7-pidgin10-2.png",
-                    "text":     "Um einen neues Konto anzulegen, musst du dir einen Benutzernamen ausdenken und ihn in das Feld Benutzer eintragen. In das Feld Domain tippst du {{ servername }} ein. Im Feld Passwort fehlt noch ein sicheres Passwort und im unteren Teil des Fensters muss der Haken bei \"Dieses neue Konto auf dem Server anlegen\" gesetzt sein."
-                },
-                {
-                    "image":    "win7-pidgin10-3.png",
-                    "text":     "Um das Anlegen des neuen Kontos abzuschließen fehlen noch einige Angaben. Im Feld Username tippst du nochmals den im vorigen Schritt gewählten Benutzernamen. Full Name und Email müssen in der Regel nicht augefüllt werden. Passwort ist ebenfalls das selbe wie im Schritt vorher."
-                },
-                {
-                    "image":    "win7-pidgin10-4.png",
-                    "text":     "Falls dieses Fenster erscheint, ist der von dir gewählte Benutzername bereits vergeben. Klick auf \"Schließen\"."
-                },
-                {
-                    "image":    "win7-pidgin10-5.png",
-                    "text":     "Um einen anderen Benutzernamen zu wählen, klicke bitte auf \"Bearbeiten\" und du kommst zur bekannten Eingabemaske."
-                }
-            ]
-        },
-        {
             "image":    "win7-pidgin10.png",
-            "text":     "Bitte wähle das Protokoll \"XMPP\" aus und trage deine Benutzerdaten in die entsprechenden Felder ein."
+            "text":     "Bitte wähle das Protokoll \"XMPP\" aus. Als Benutzer dient der Teil deiner Jabber-Adresse, die vor dem @ steht. Der Teil danach kommt in das Feld \"Domain\". Ressource kann leer bleiben. Dein Passwort gehört in das entsprechende Feld. Mit einem Klick auf \"Hinzufügen\" wird das Fenster geschlossen."
         },
         {
             "image":    "win7-pidgin11.png",
-            "text":     "Um den Account zu aktivieren, musst du den Haken in der Spalte setzen. Nach einem Klick auf Schließen kannst du deinen Jabber Account bereits verwenden."
+            "text":     "Um den Account zu aktivieren, musst du den Haken in der Spalte setzen. Nach einem Klick auf \"Schließen\" kannst du deinen Jabber Account bereits verwenden."
         }
     ],
     "links": [
         {
-            "linktext": "Description",
-            "url":      "http://example.com"
+            "linktext": "offizielle Seite von Pidgin",
+            "url":      "http://pidgin.im"
         }
     ]
 }

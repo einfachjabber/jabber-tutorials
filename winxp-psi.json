@@ -16,7 +16,7 @@
         },
         {
             "image":    "winxp-psi2.png",
-            "text":     "Wähle nun die Sprache für den Installationsprozess und klicke auf \"Ok\"."
+            "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle hier die Sprache für den Installationsprozess und klicke auf \"Ok\"."
         },
         {
             "image":    "winxp-psi3.png",
@@ -24,7 +24,7 @@
         },
         {
             "image":    "winxp-psi4.png",
-            "text":     "In diesem Fenster wird die Lizenz, unter der Psi veröffentlicht wird, angezeigt. Klicke auf \"Annehmen\"."
+            "text":     "In diesem Fenster wird die Lizenz, unter der Psi veröffentlicht wird, angezeigt. Klicke auf \"Annehmen\" um mit der Installation fortzufahren."
         },
         {
             "image":    "winxp-psi5.png",
@@ -39,45 +39,18 @@
             "text":     "Psi wird nun installiert. Ist der Schritt beendet erscheint obiges Bild. Setze den Haken \"Psi ausführen\" und klicke auf Fertigstellen."
         },
         {
-            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke hier.",
-            "morelink":     "Wenn du noch keinen Jabber-Account besitzt, klicke hier.",
-			"jumpto": "links",
-            "more": [
-                {
-                    "image":    "winxp-psi8-2.png",
-                    "text":     "Wähle nun den Punkt \"Neues Benutzerkonto einrichten\" um ein neues Jabber-Konto einzurichten."
-                },
-                {
-                    "image":    "winxp-psi8-3.png",
-                    "text":     "Wähle nun einen Server aus. Entweder wählst du mittels des Pfeils einen Server oder du gibst {{ servername }} in das Feld ein. Klicke auf \"Weiter\"."
-                },
-                {
-                    "image":    "winxp-psi8-4.png",
-                    "text":     "Nun deine Zugangsdaten in die Felder eingeben. Denke dir einen Benutzernamen und ein sicheres Passwort aus, dann klicke auf \"Weiter\"."
-                },
-                {
-                    "image":    "winxp-psi8-5.png",
-                    "text":     "Wird der Benutzername schon von einer anderen Person genutzt, so erscheint diese Fehlermeldung. Klicke auf \"Ok\" und wähle einen anderen Benutzernamen."
-                },
-                {
-                    "image":    "winxp-psi8-6.png",
-                    "text":     "Ist der Benutzername noch nicht vergeben worden, so erscheint nun diese Erfolgsmeldung. Klicke auf \"Ok\" um dein Jabber-Konto zu nutzen."
-                }
-            ]
-        },
-        {
             "image":    "winxp-psi8.png",
-            "text":     "Wähle nun den Punkt \"Vorhandenes Benutzerkonto verwenden\" um einen bereits existierenden Jabber-Account zu nutzen."
+            "text":     "Das obige Fenster erscheint beim ersten Start von Psi. Wähle den Punkt \"Vorhandenes Benutzerkonto verwenden\" um dein Jabber-Konto zu benutzen."
         },
         {
             "image":    "winxp-psi9.png",
-            "text":     "Gebe in die Felder deine Nutzerdaten ein. Wähle anschließend noch die von dir gewünschten Optionen unter der Eingabemaske und klicke auf Speichern um dein Jabber-Konto zu nutzen."
+            "text":     "Trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Wähle anschließend noch die von dir gewünschten Optionen unter der Eingabemaske und klicke auf \"Speichern\" um dein Jabber-Konto zu nutzen."
         }
     ],
     "links": [
         {
-            "linktext": "Description",
-            "url":      "http://example.com"
+            "linktext": "offizielle Seite von Psi",
+            "url":      "http://psi-im.org/"
         }
     ]
 }

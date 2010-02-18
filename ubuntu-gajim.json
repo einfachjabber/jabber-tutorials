@@ -20,7 +20,7 @@
         },
         {
             "image":    "ubuntu-gajim3.png",
-            "text":     "Wähle das 'Gajim Sofortnachrichtenprogramm' durch einen Klick aus und klicke anschließend auf den Pfeil."
+            "text":     "Wähle das 'Gajim Sofortnachrichtenprogramm' aus und klicke anschließend auf den Pfeil."
         },
         {
             "image":    "ubuntu-gajim4.png",
@@ -28,54 +28,23 @@
         },
         {
             "image":    "ubuntu-gajim5.png",
-            "text":     "Da die Installation von Programmen nur von berechtigten Nutzern vorgenommen werden kann, musst Du sie durch die Eingabe Deines Ubuntu-Benutzerpassworts bestätigen."
+            "text":     "Da die Installation von Programmen nur von berechtigten Nutzern vorgenommen werden kann, musst du sie durch die Eingabe deines Ubuntu-Benutzerpassworts bestätigen."
         },
         {
             "image":    "ubuntu-gajim6.png",
-            "text":     "Das Software-Center lädt Gajim nun herunter und installiert es anschließend. Sobald der Installationsprozess beendet ist, kannst Du das Fenster schließen."
+            "text":     "Das Software-Center lädt Gajim nun herunter und installiert es anschließend. Sobald der Installationsprozess beendet ist, kannst du das Fenster schließen."
         },
         {
             "image":    "ubuntu-gajim7.png",
             "text":     "Du kannst nun Gajim über den Bereich 'Internet' im Anwendungsmenü öffnen."
         },
         {
-            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke hier.",
-            "morelink":     "Wenn du noch keinen Jabber-Account besitzt, klicke hier.",
-            "jumpto": "",
-            "more": [
-                {
-                "image":    "ubuntu-gajim8-2.png",
-                "text":     "Wähle die zweite Option, die es Dir erlaubt ein neues Konto auf einem Server zu erstellen."
-                },
-                {
-                "image":    "ubuntu-gajim8-3.png",
-                "text":     "Du wirst nun aufgefordert, einen Server zu wählen. Wir empfehlen Dir beispielsweise {{ servername }}."
-                },
-                {
-                "image":    "ubuntu-gajim8-4.png",
-                "text":     "Gajim nimmt nun Verbindung zu diesem Server auf. Du musst nur kurz warten, bis das passiert ist."
-                },
-                {
-                "image":    "ubuntu-gajim8-5.png",
-                "text":     "Gib nun Deinen gewünschten Benutzernamen und ein Passwort ein, um das Konto auf dem Server zu erstellen."
-                },
-                {
-                "image":    "ubuntu-gajim8-6.png",
-                "text":     "Das Konto ist nun erstellt und Du kannst direkt online gehen (erster Haken). Wenn Du möchtest, kannst Du auch gleich Dein Benutzerprofil bearbeiten (zweiter Haken)."
-                },
-                {
-                "image":    "ubuntu-gajim8-7.png",
-                "text":     "Du wirst aufgefordert das Passwort für Dein Jabber-Konto anzugeben, das Du ebenfalls gleich speichern kannst, sodass Du es nicht jedes Mal neu eingeben musst."
-                }
-            ]
-        },
-        {
             "image":    "ubuntu-gajim8.png",
-            "text":     "Wähle die zweite Option, die es Dir erlaubt Gajim mit Deinem bereits auf dem Server bestehenden Jabber-Konto zu verknüpfen."
+            "text":     "Beim ersten Start erscheint das obige Fenster. Wähle die erste Option, um dein Jabber-Konto hinzuzufügen und klicke auf \"Vor\"."
         },
         {
             "image":    "ubuntu-gajim9.png",
-            "text":     "Gib Deinen Benutzernamen, die Adresse des Servers und Dein Passwort in die Maske ein. Es ist praktisch 'Passwort speichern' anzukreuzen, weil sich Gajim so das Passwort merkt und Du es nicht bei jeden Start eingeben musst."
+            "text":     "Gib deinen Benutzernamen (der Teil vor dem @), die Adresse des Servers (der Teil nach dem @) und dein Passwort in die Maske ein. Es ist praktisch 'Passwort speichern' anzukreuzen, weil sich Gajim so das Passwort merkt und Du es nicht bei jeden Start eingeben musst. Klicke anschließend auf \"Vor\"."
         },
         {
             "image":    "ubuntu-gajim10.png",
@@ -84,6 +53,12 @@
         {
             "image":    "ubuntu-gajim11.png",
             "text":     "Dein Konto ist nun eingerichtet und Du kannst direkt online gehen (erster Haken). Wenn Du möchtest, kannst Du auch gleich Dein Benutzerprofil bearbeiten (zweiter Haken)."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "offizielle Seite von Gajim",
+            "url":      "http://www.gajim.org"
         }
     ]
 }

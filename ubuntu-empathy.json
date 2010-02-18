@@ -16,26 +16,11 @@
         },
 		{
             "image":    "ubuntu-empathy2.png",
-            "text":     "Nach dem Start von Empathy wirst du mit dem obigen Fenster begrüßt."
-        },
-        {
-            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier",
-            "morelink":     "Wenn du noch keinen Jabber-Account hast, klicke bitte hier",
-			"jumpto": "links",
-            "more": [
-                {
-                    "image":    "ubuntu-empathy2-1.png",
-                    "text":     "Um einen neues Konto anzulegen, musst du dir einen Benutzernamen ausdenken und ihn in das Feld Jabber-Kennung eintragen und dahinter {{ servername }} schreiben wie im Beispiel dort gezeigt. Im Feld Passwort fehlt nun noch ein sicheres Passwort. Nach einem Klick auf \"vor\" kannst du deinen Jabber Account bereits verwenden."
-                },
-				{
-            "image":    "ubuntu-empathy2-2.png",
-            "text":     "Sollte der von dir gewählte Benutzername bereits vergeben sein, siehst du solch eine Fehlermeldung. In dem Fall musst du einen anderen wählen."
-        }
-            ]
+            "text":     "Nach dem ersten Start von Empathy wirst du mit dem obigen Fenster begrüßt. Wähle hier den obersten Eintrag und klicke auf \"Vor\"."
         },
         {
             "image":    "ubuntu-empathy3-2.png",
-            "text":     "Bitte wähle das Protokoll \"Jabber\" aus und trage deine Benutzerdaten in die entsprechenden Felder ein und klicke auf Abschluss auf \"Anwenden\"."
+            "text":     "Wähle als Art des Chat-Kontos \"Jabber\" aus und trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Nach einem Klick auf Anwenden kannst du deinen Jabber Account bereits verwenden."
         }
     ],
     "links": [

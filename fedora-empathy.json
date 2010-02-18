@@ -11,41 +11,22 @@
 		},
     "tutorial": [
         {
-            "image":    "fedora-empathy0.png",
+            "image":    "fedora-empathy1.png",
             "text":     "Den Anwendungsstarter für Empathy findest du unter Anwendungen und dort bei Internet."
         },
 		{
-            "image":    "fedora-empathy1-2.png",
-            "text":     "Nach dem Start von Empathy wirst du mit dem obigen Fenster begrüßt."
-        },
-        {
-            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke bitte hier",
-            "morelink":     "Wenn du noch keinen Jabber-Account hast, klicke bitte hier",
-			"jumpto": "links",
-            "more": [
-                {
-                    "image":    "fedora-empathy1-3.png",
-                    "text":     "Um einen neues Konto anzulegen, musst du dir einen Benutzernamen ausdenken und ihn in das Feld Jabber-Kennung eintragen und schreibst dahinter {{ servername }} , wie im Beispiel dort gezeigt. Im Feld Passwort fehlt nun noch ein sicheres Passwort. Nach einem Klick auf Anwenden kannst du deinen Jabber Account bereits verwenden."
-                },
-				{
-            "image":    "fedora-empathy1-4.png",
-            "text":     "Sollte der von dir gewählte Benutzername bereits vergeben sein, siehst du solch eine Fehlermeldung. In dem Falle musst du einen anderen wählen."
-        }
-            ]
-        },
-        {
-            "image":    "fedora-empathy1.png",
-            "text":     "Bitte wähle das Protokoll \"Jabber\" aus und trage deine Benutzerdaten in die entsprechenden Felder ein."
-        },
-        {
             "image":    "fedora-empathy2.png",
-            "text":     "Nach einem Klick auf Anwenden kannst du deinen Jabber Account bereits verwenden."
+            "text":     "Nach dem ersten Start von Empathy wirst du mit dem obigen Fenster begrüßt. Wähle hier den obersten Eintrag und klicke auf \"Vor\"."
+        },
+        {
+            "image":    "fedora-empathy3.png",
+            "text":     "Wähle als Art des Chat-Kontos \"Jabber\" aus und trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Nach einem Klick auf Anwenden kannst du deinen Jabber Account bereits verwenden."
         }
     ],
     "links": [
         {
-            "linktext": "Description",
-            "url":      "http://example.com"
+            "linktext": "offizielle Seite von Empathy",
+            "url":      "http://live.gnome.org/Empathy"
         }
     ]
 }

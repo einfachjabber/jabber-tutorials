@@ -12,7 +12,7 @@
     "tutorial": [
         {
             "image":    "kubuntu-kopete0.png",
-            "text":     "Den Anwendungsstarter für Kopete, findest du, wenn du auf den Startbutton gehst, dann auf Programme klickst und dort in die Kategorie Internet gehst. Er heißt dort Instant Messanger."
+            "text":     "Den Anwendungsstarter für Kopete, findest du, wenn du auf den Startbutton klickst, dann auf Programme und dort in die Kategorie Internet gehst. Er heißt dort Instant Messenger."
         },
 		{
             "image":    "kubuntu-kopete1.png",
@@ -23,33 +23,18 @@
             "text":     "Wähle nun Jabber als Protokoll aus und klicke auf \"Weiter\"."
         },
         {
-            "defaultlink":  "Wenn du bereits einen Jabber-Account besitzt, klicke hier.",
-            "morelink":     "Wenn du noch keinen Jabber-Account besitzt, klicke hier.",
-			"jumpto": "links",
-            "more": [
-                {
-                    "image":    "kubuntu-kopete4.png",
-                    "text":     "Um ein neues Konto zu erstellen ist es nötig die Felder hier auszufüllen. In die erste Zeile gibst du (( servername )) ein. In die zweite Zeile gibst du deinen freigewählten Benutzernamen, gefolgt vom in der ersten Zeile angegeben Servernamen ein. Dann noch zwei mal das Passwort eingeben und auf \"Registrieren\" klicken ."
-                },
-                {
-                    "image":    "kubuntu-kopete4-1.png",
-                    "text":     "Falls der von dir gewählte Benutzername schon vergeben ist, dann kommt diese Fehlermeldung. In diesem Fall solltest du einen anderen Benutzernamen wählen. Dazu musst du wieder einen neuen Zugang hinzufügen."
-                }
-            ]
-        },
-        {
             "image":    "kubuntu-kopete3-1.png",
-            "text":     "Um ein bestehendes Jabber-Konto zu nutzen, trage einfach im oberen Bereich deinen Benutzernamen und dein Passwort ein. Klicke danach auf \"Weiter\"."
+            "text":     "Um dein Jabber-Konto zu nutzen, trage einfach im oberen Bereich deinen Benutzernamen und dein Passwort ein. Klicke danach auf \"Weiter\"."
         },
         {
             "image":    "kubuntu-kopete3-2.png",
-            "text":     "Es erscheint dieses Fenster, welches einfach mit einem Klick auf \"Abschließen\" geschlossen wird."
+            "text":     "Es erscheint dieses Fenster, welches einfach mit einem Klick auf \"Abschließen\" geschlossen wird. Danach kannst du Kopete bereits zur Kommunikation über Jabber verwenden."
         }
     ],
     "links": [
         {
-            "linktext": "Description",
-            "url":      "http://example.com"
+            "linktext": "offizielle Seite von Kopete",
+            "url":      "http://kopete.kde.org/"
         }
     ]
 }
