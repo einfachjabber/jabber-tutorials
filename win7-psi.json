@@ -28,7 +28,7 @@
         },
         {
             "image":    "win7-psi5.png",
-            "text":     "Wähle nun die Komponenten die du mitinstallieren möchtest. Im Regelfall können hier die Standardeinstellungen behalten werden. Klicke auf \"Weiter\"."
+            "text":     "Wähle nun die Komponenten die du mitinstallieren möchtest. Im Zweifelsfall können hier die Standardeinstellungen beibehalten werden. Klicke auf \"Weiter\"."
         },
         {
             "image":    "win7-psi6.png",
@@ -36,7 +36,7 @@
         },
         {
             "image":    "win7-psi7.png",
-            "text":     "Psi wird nun installiert. Ist der Schritt beendet erscheint obiges Bild. Setze den Haken \"Psi ausführen\" und klicke auf Fertigstellen."
+            "text":     "Psi wird nun installiert. Nach der Installation erscheint obiges Bild. Setze den Haken bei \"Psi ausführen\" und klicke auf \"Fertigstellen\"."
         },
         {
             "image":    "win7-psi8.png",
@@ -44,7 +44,7 @@
         },
         {
             "image":    "win7-psi9.png",
-            "text":     "Trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Wähle anschließend noch die von dir gewünschten Optionen unter der Eingabemaske und klicke auf \"Speichern\" um dein Jabber-Konto zu nutzen."
+            "text":     "Trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Wähle anschließend noch die von dir gewünschten Optionen unter der Eingabemaske aus und klicke auf \"Speichern\" um dein Jabber-Konto zu nutzen."
         }
     ],
     "links": [

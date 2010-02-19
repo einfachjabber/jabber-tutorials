@@ -28,7 +28,7 @@
         },
         {
             "image":    "winxp-pidgin6.png",
-            "text":     "Oben siehst du die Konfiguration der Installation. In der Regel können die Standardeinstellungen, die im Bild zu sehen sind, übernommen werden. Klicke nun auf \"Weiter\"."
+            "text":     "Oben siehst du die Konfiguration der Installation. Nun musst du das Installationsverzeichnis für Pidgin wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke nun auf \"Weiter\"."
         },
         {
             "image":    "winxp-pidgin7.png",
@@ -40,7 +40,7 @@
         },
         {
             "image":    "winxp-pidgin9.png",
-            "text":     "Die Installation ist damit bereits beendet. Um Pidgin sofort zu starten kannst du den Haken wie im Bild setzen und dann auf \"Fertig stellen\" klicken."
+            "text":     "Die Installation ist damit bereits beendet. Um Pidgin sofort zu starten, kannst du den Haken wie im Bild setzen und dann auf \"Fertig stellen\" klicken."
         },
         {
             "image":    "winxp-pidgin10.png",
@@ -48,11 +48,11 @@
         },
         {
             "image":    "winxp-pidgin11.png",
-            "text":     "Bitte wähle das Protokoll \"XMPP\" aus. Als Benutzer dient der Teil deiner Jabber-Adresse, die vor dem @ steht. Der Teil danach kommt in das Feld \"Domain\". Ressource kann leer bleiben. Dein Passwort gehört in das entsprechende Feld. Mit einem Klick auf \"Hinzufügen\" wird das Fenster geschlossen."
+            "text":     "Bitte wähle das Protokoll \"XMPP\" aus. Als Benutzer dient der Teil deiner Jabber-Adresse, der vor dem @ steht. Der Teil nach dem @, kommt in das Feld \"Domain\". Das Feld Ressource kann leer bleiben. Dein Passwort gehört in das entsprechende Feld. Mit einem Klick auf \"Hinzufügen\" wird das Fenster geschlossen."
         },
         {
             "image":    "winxp-pidgin12.png",
-            "text":     "Um den Account zu aktivieren, musst du den Haken in der Spalte setzen. Nach einem Klick auf Schließen kannst du deinen Jabber Account bereits verwenden."
+            "text":     "Um den Account zu aktivieren, musst du den Haken in der Spalte setzen. Nach einem Klick auf \"Schließen\" kannst du deinen Jabber Account bereits verwenden."
         }
     ],
     "links": [

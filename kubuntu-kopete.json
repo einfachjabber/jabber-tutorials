@@ -12,11 +12,11 @@
     "tutorial": [
         {
             "image":    "kubuntu-kopete0.png",
-            "text":     "Den Anwendungsstarter für Kopete, findest du, wenn du auf den Startbutton klickst, dann auf Programme und dort in die Kategorie Internet gehst. Er heißt dort Instant Messenger."
+            "text":     "Den Anwendungsstarter für Kopete, findest du, wenn du auf den \"Startbutton\" klickst, dann auf \"Programme\" und dort in die Kategorie \"Internet\" gehst. Er heißt dort Instant Messenger."
         },
 		{
             "image":    "kubuntu-kopete1.png",
-            "text":     "Nach dem starten von Kopete, navigierst du zu Einstellungen -> Einrichten und klickst dort auf \"Zugang hinzufügen\"."
+            "text":     "Nach dem Starten von Kopete, navigierst du zu Einstellungen -> Einrichten und klickst dort auf \"Zugang hinzufügen\"."
         },
         {
             "image":    "kubuntu-kopete2.png",

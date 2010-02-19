@@ -12,7 +12,7 @@
     "tutorial": [
         {
             "image":    "ubuntu-empathy0.png",
-            "text":     "Den Anwendungsstarter für Empathy findest du unter Anwendungen und dort bei Internet."
+            "text":     "Den Anwendungsstarter für Empathy findest du unter \"Anwendungen\" und dort bei \"Internet\"."
         },
 		{
             "image":    "ubuntu-empathy2.png",
@@ -20,13 +20,13 @@
         },
         {
             "image":    "ubuntu-empathy3-2.png",
-            "text":     "Wähle als Art des Chat-Kontos \"Jabber\" aus und trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Nach einem Klick auf Anwenden kannst du deinen Jabber Account bereits verwenden."
+            "text":     "Wähle als Art des Chat-Kontos \"Jabber\" aus und trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Nach einem Klick auf \"Anwenden\" kannst du deinen Jabber Account bereits verwenden."
         }
     ],
     "links": [
         {
-            "linktext": "Description",
-            "url":      "http://example.com"
+            "linktext": "offizielle Seite von Empathy",
+            "url":      "http://live.gnome.org/Empathy"
         }
     ]
 }
