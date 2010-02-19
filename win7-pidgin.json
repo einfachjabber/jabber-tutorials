@@ -32,7 +32,7 @@
         },
         {
             "image":    "win7-pidgin6.png",
-            "text":     "Um Pidgin in das vorgeschlagene Verzeichnis zu installieren (empfohlen) klicke auf \"Installieren\"."
+            "text":     "Nun musst du das Installationsverzeichnis für Pidgin wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke auf \"Installieren\"."."
         },
         {
             "image":    "win7-pidgin7.png",
@@ -40,7 +40,7 @@
         },
         {
             "image":    "win7-pidgin8.png",
-            "text":     "Die Installation ist damit bereits beendet. Um Pidgin sofort zu starten kannst du den Haken wie im Bild setzen und dann auf \"Fertig stellen\" klicken."
+            "text":     "Die Installation ist damit bereits beendet. Um Pidgin sofort zu starten, kannst du den Haken wie im Bild setzen und dann auf \"Fertig stellen\" klicken."
         },
         {
             "image":    "win7-pidgin9.png",
@@ -48,7 +48,7 @@
         },
         {
             "image":    "win7-pidgin10.png",
-            "text":     "Bitte wähle das Protokoll \"XMPP\" aus. Als Benutzer dient der Teil deiner Jabber-Adresse, die vor dem @ steht. Der Teil danach kommt in das Feld \"Domain\". Ressource kann leer bleiben. Dein Passwort gehört in das entsprechende Feld. Mit einem Klick auf \"Hinzufügen\" wird das Fenster geschlossen."
+            "text":     "Bitte wähle das Protokoll \"XMPP\" aus. Als Benutzer dient der Teil deiner Jabber-Adresse, der vor dem @ steht. Der Teil nach dem @, kommt in das Feld \"Domain\". Ressource kann leer bleiben. Dein Passwort gehört in das entsprechende Feld. Mit einem Klick auf \"Hinzufügen\" wird das Fenster geschlossen."
         },
         {
             "image":    "win7-pidgin11.png",

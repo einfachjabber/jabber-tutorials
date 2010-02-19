@@ -32,7 +32,7 @@
         },
         {
             "image":    "iphone-implus6.png",
-            "text":     "Hier werden die Daten deines Nutzerkontos eingegeben. In das Feld \"Login\" gehört der Teil deiner Adresse, die vor dem @ steht, in das Feld \"Host\" der Teil danach. Das Feld \"Passwort\" sollte selbsterklärend sein. Die Nutzung der SSL-Verschlüsselung wird empfohlen. Wenn alles eingetragen ist wird der Assistent mit \"Fertig\" beendet."
+            "text":     "Hier werden die Daten deines Nutzerkontos eingegeben. In das Feld \"Login\" gehört der Teil deiner Adresse, der vor dem @ steht, in das Feld \"Host\" der Teil danach. Das Feld \"Passwort\" sollte selbsterklärend sein. Die Nutzung der SSL-Verschlüsselung wird empfohlen, ist aber nicht zwingend notwendig. Wenn alles eingetragen ist wird der Assistent mit \"Fertig\" beendet."
         },
         {
             "image":    "iphone-implus7.png",
@@ -41,8 +41,8 @@
     ],
     "links": [
         {
-            "linktext": "Description",
-            "url":      "http://example.com"
+            "linktext": "offizielle Seite von IM+/IM+ lite",
+            "url":      "http://www.shapeservices.com/en/products/details.php?product=im&platform=none"
         }
     ]
 }

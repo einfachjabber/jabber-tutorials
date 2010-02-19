@@ -12,7 +12,7 @@
     "tutorial": [
         {
             "image":    "ubuntu-gajim1.png",
-            "text":     "Du musst zunächst Gajim installieren. Öffne dazu das Software-Center über das Anwendungsmenü."
+            "text":     "Du musst zunächst Gajim installieren. Öffne dazu das Software-Center über das \"Anwendungsmenü\"."
         },
         {
             "image":    "ubuntu-gajim2.png",
@@ -20,11 +20,11 @@
         },
         {
             "image":    "ubuntu-gajim3.png",
-            "text":     "Wähle das 'Gajim Sofortnachrichtenprogramm' aus und klicke anschließend auf den Pfeil."
+            "text":     "Wähle das 'Gajim Sofortnachrichtenprogramm' aus und klicke anschließend auf den \"Pfeil\"."
         },
         {
             "image":    "ubuntu-gajim4.png",
-            "text":     "Klicke auf den 'Installieren'-Button."
+            "text":     "Klicke auf \"Installieren\"."
         },
         {
             "image":    "ubuntu-gajim5.png",
@@ -36,7 +36,7 @@
         },
         {
             "image":    "ubuntu-gajim7.png",
-            "text":     "Du kannst nun Gajim über den Bereich 'Internet' im Anwendungsmenü öffnen."
+            "text":     "Du kannst nun Gajim über den Bereich \"Internet\" unter dem Menüpunkt \"Anwendungen\" öffnen."
         },
         {
             "image":    "ubuntu-gajim8.png",
@@ -44,11 +44,11 @@
         },
         {
             "image":    "ubuntu-gajim9.png",
-            "text":     "Gib deinen Benutzernamen (der Teil vor dem @), die Adresse des Servers (der Teil nach dem @) und dein Passwort in die Maske ein. Es ist praktisch 'Passwort speichern' anzukreuzen, weil sich Gajim so das Passwort merkt und Du es nicht bei jeden Start eingeben musst. Klicke anschließend auf \"Vor\"."
+            "text":     "Gib deinen Benutzernamen, also der Teil vor dem @ steht, die Adresse des Servers, also der Teil nach dem @, und dein Passwort in die Maske ein. Es ist praktisch \"Passwort speichern\" anzukreuzen, weil sich Gajim so das Passwort merkt und Du es nicht bei jeden Start eingeben musst. Klicke anschließend auf \"Vor\"."
         },
         {
             "image":    "ubuntu-gajim10.png",
-            "text":     "Falls Du gerade angegeben hast, dass Gajim Dein Passwort speichern soll, musst Du eventuell den GNOME-Schlüsselbund entsperren, damit Gajim das Passwort dort sicher speichern kann. Meist ist das dazu nötige Kennwort Dein Passwort beim Ubuntu-Login."
+            "text":     "Falls Du gerade angegeben hast, dass Gajim Dein Passwort speichern soll, musst Du eventuell den GNOME-Schlüsselbund entsperren, damit Gajim das Passwort dort sicher speichern kann. Dafür wird das Benutzerpasswort benötigt."
         },
         {
             "image":    "ubuntu-gajim11.png",
