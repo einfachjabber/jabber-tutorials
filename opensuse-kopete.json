@@ -1,0 +1,40 @@
+{
+    "os": "Opensuse",
+    "client": "Kopete",
+    "clientversion": "0.60.3",
+	"author": 
+		{
+			"name": "Sebastian Drews",
+			"email": "razibue@googlemail.com",
+			"website": "",
+			"jabber": "blackdeath@jabber.ccc.de"
+		},
+    "tutorial": [
+        {
+            "image":    "opensuse-kopete1.png",
+            "text":     "Den Anwendungsstarter für Kopete, findest du, wenn du auf den \"Startbutton\" klickst, dann auf \"Programme\" und dort in die Kategorie \"Internet\" gehst und dort auf \"Chatten\". Er heißt dort Instant Messenger."
+        },
+		{
+            "image":    "opensuse-kopete2.png",
+            "text":     "Nach dem Starten von Kopete, navigierst du zu Einstellungen -> Einrichten und klickst dort auf \"Zugang hinzufügen\"."
+        },
+        {
+            "image":    "opensuse-kopete3.png",
+            "text":     "Wähle nun Jabber als Protokoll aus und klicke auf \"Weiter\"."
+        },
+        {
+            "image":    "opensuse-kopete4.png",
+            "text":     "Um dein Jabber-Konto zu nutzen, trage einfach im oberen Bereich deinen Benutzernamen und dein Passwort ein. Klicke danach auf \"Weiter\"."
+        },
+        {
+            "image":    "opensuse-kopete5.png",
+            "text":     "Es erscheint dieses Fenster, welches einfach mit einem Klick auf \"Abschließen\" geschlossen wird. Danach kannst du Kopete bereits zur Kommunikation über Jabber verwenden."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "offizielle Seite von Kopete",
+            "url":      "http://kopete.kde.org/"
+        }
+    ]
+}
