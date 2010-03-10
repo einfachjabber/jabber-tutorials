@@ -1,0 +1,53 @@
+{
+    "os": "Android",
+    "client": "Beem",
+    "clientversion": "0.1.2",
+	"author": 
+		{
+			"name": "Daniel S"
+		},
+    "tutorial": [
+        {
+            "image":    "android-beem1.png",
+            "text":     "Um Beem zu installieren, starte zunächst den Market."
+        },
+        {
+            "image":    "android-beem2.png",
+            "text":     "Dann suchst du einfach nach \"Beem\" und installierst die App."
+        },
+        {
+            "image":    "android-beem3.png",
+            "text":     "Wenn die Installation fertig ist, starte Beem über das Menü oder die Installationsmeldung."
+        },
+        {
+            "image":    "android-beem4.png",
+            "text":     "Um Beem einzustellen, drücke auf die Menü-Taste und dann auf \"Settings\""
+        },
+        {
+            "image":    "android-beem5.png",
+            "text":     "Tippe auf die Zeile \"Username\" und trage deine komplette Jabber-Adresse ein (zum Beispiel jabbertutorial@jabber.ccc.de). Bestätige mit OK."
+        },
+        {
+            "image":    "android-beem6.png",
+            "text":     "Genauso trägst du auch dein Passwort ein."
+        },
+        { 
+            "image":    "android-beem7.png",
+            "text":     "Drücke auf die Zurück-Taste um die Einrichtung abzuschließen."
+        },
+        {
+            "image":    "android-beem8.png",
+            "text":     "Warte bis du angemeldet bist."
+        },
+        {
+            "image":    "android-beem9.png",
+            "text":     "Falls du bereits Kontakte in deiner Liste haben solltest, werden diese nun angezeigt. Falls nicht, findest du im letzten Teil unseres Tutorials Informationen dazu, wie du neue Kontakte zu deiner Liste hinzufügst."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "offizielle Seite von Beem",
+            "url":      "http://dev.beem-project.com/projects/beem"
+        }
+    ]
+}
