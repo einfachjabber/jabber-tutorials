@@ -1,0 +1,32 @@
+{
+    "os": "Debian",
+    "client": "Pidgin",
+    "clientversion": "2.4.3",
+	"author": 
+		{
+			"name": "Sebastian Drews",
+			"email": "razibue@googlemail.com",
+			"website": "",
+			"jabber": "blackdeath@jabber.ccc.de"
+		},
+    "tutorial": [	
+	{
+            "image":    "debian-pidgin0.png",
+            "text":     "Den Anwendungsstarter für Pidgin findest du unter \"Anwendungen\" und dort bei \"Internet\"."
+        },
+		{
+            "image":    "debian-pidgin1.png",
+            "text":     "Nach dem Start von Pidgin navigierst du zu Konten -> Konten verwalten und klickst dort auf \"Konto hinzufügen\"."
+        },
+        {
+            "image":    "debian-pidgin2.png",
+            "text":     "Als Protokoll wählst du XMPP und trägst deinen Benutzernamen, das ist der Teil vor dem @, in das Feld Benutzer ein. In das Feld Domain trägst du deinen Jabberserver, also der Teil nach dem @ ein. Das Feld Ressource kann freibleiben. Im Feld Passwort trägst du noch dein Passwort ein und klickst dann zum Abschluss auf \"Hinzufügen\"."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "offizielle Seite von Pidgin",
+            "url":      "http://pidgin.im"
+        }
+    ]
+}
