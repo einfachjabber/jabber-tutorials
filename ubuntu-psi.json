@@ -1,0 +1,48 @@
+{
+    "os": "Ubuntu",
+    "client": "Psi",
+    "clientversion": "0.12.1",
+	"author": 
+		{
+			"name": "Sebastian Wagner",
+			"email": "",
+			"website": "",
+			"jabber": "sebix@jabber.ccc.de"
+		},
+    "tutorial": [
+	{
+            "image":    "ubuntu-psi1.png",
+            "text":     "Um Psi zu installieren muss zunächst das Softwarecenter gestartet werden."
+        },
+	{
+            "image":    "ubuntu-psi2.png",
+            "text":     "Dann sucht man einfach im Suchfeld am oberen Rand nach Psi, klickt auf den Eintrag \"Psi\" und dann auf den erscheinenden Button mit dem Pfeil."
+        },        
+	{
+            "image":    "ubuntu-psi3.png",
+            "text":     "Nun muss nur noch auf \"Installieren\" geklickt werden und die Installation startet."
+        },
+	{
+            "image":    "ubuntu-psi4.png",
+            "text":     "Um das Psi zu installieren, braucht das System Administratorrechte, dazu muss muss mit dem Administrator-Passwort bestätigt werden."
+        },
+	{
+            "image":    "ubuntu-psi5.png",
+            "text":     "Den Anwendungsstarter für Psi findest du unter \"Anwendungen\" und dort bei \"Internet\"."
+        },
+		{
+            "image":    "ubuntu-psi6.png",
+            "text":     "Nach dem ersten Start des Programms, fragt Psi automatisch nach dem Jabber-Account. Klicke auf \"Use existing account\" um den Account einzutragen."
+        },
+        {
+            "image":    "ubuntu-psi7.png",
+            "text":     "Die Eingabe der Daten der Daten ist sehr einfach. Die Jabber-ID lautet zum Beispiel benutzer@example.com. Es ist praktisch, die unteren Boxen alle zu aktivieren, so verbindet sich Psi immer automatisch."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "Offizielle Website von Psi",
+            "url":      "http://psi-im.org"
+        }
+    ]
+}
