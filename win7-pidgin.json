@@ -12,7 +12,7 @@
     "tutorial": [
         {
             "image":    "win7-pidgin1.png",
-            "text":     "Besuche die Seite http://www.pidgin.im/download/windows, und lade dir Pidgin durch einen Klick auf \"Download Pidgin\" herunter."
+            "text":     "Besuche die [[http://www.pidgin.im/download/windows|Website]], und lade dir Pidgin durch einen Klick auf \"Download Pidgin\" herunter."
         },
         {
             "image":    "win7-pidgin2.png",

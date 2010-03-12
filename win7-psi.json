@@ -12,7 +12,7 @@
     "tutorial": [
         {
             "image":    "win7-psi1.png",
-            "text":     "Gehe auf die Webseite http://www.psi-im.org/ und lade dir dort die aktuelle Version für Windows herunter."
+            "text":     "Gehe auf die [[http://www.psi-im.org/|Website]] und lade dir dort die aktuelle Version für Windows herunter."
         },
         {
             "image":    "win7-psi2.png",

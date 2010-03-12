@@ -12,7 +12,7 @@
     "tutorial": [
         {
             "image":    "winxp-gajim1.png",
-            "text":     "Gehe auf die Webseite http://gajim.org/downloads.php?lang=de#windows und lade dir dort die Windows-Installationsdatei für Gajim herunter."
+            "text":     "Gehe auf die [[http://gajim.org/downloads.php?lang=de#windows|Webseite]] und lade dir dort die Windows-Installationsdatei für Gajim herunter."
         },
         {
             "image":    "winxp-gajim2.png",
