@@ -16,11 +16,11 @@
         },
 	{
             "image":    "ubuntu-pidgin0-2.png",
-            "text":     "Dann sucht man einfach im Suchfeld am oberen Rand nach Pidgin und wählt mit Rechtsklick \"Zum Installieren vormerken\" aus."
+            "text":     "Dann sucht man einfach im Suchfeld am oberen Rand nach Pidgin und klickt auf den Eintrag \"Pidgin\" und dort auf den Pfeil.
         },        
 	{
             "image":    "ubuntu-pidgin0-3.png",
-            "text":     "Nun muss nur noch auf \"Anwenden\" geklickt werden und die Installation startet."
+            "text":     "Nun muss nur noch auf \"Installieren\" geklickt werden und die Installation startet."
         },	
 	{
             "image":    "ubuntu-pidgin0.png",
