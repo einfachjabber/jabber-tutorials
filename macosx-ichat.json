@@ -12,23 +12,23 @@
     "tutorial": [	
 	{
             "image":    "macosx-ichat1.png",
-            "text":     "Die Standardanwendung für Chats(iChat) unter Mac OS X unterstüzt Jabber. Unter im Finder unter Anwendungen lässt sich diese starten."
+            "text":     "Die Standardanwendung für Chats(iChat) unter Mac OS X unterstüzt Jabber. Im Finder unter Anwendungen lässt sich diese starten."
         },
 	{
             "image":    "macosx-ichat2.png",
-            "text":     "Durch öffnen der Einstellungen mit der Tastenkombination APFEL + , oder im Menü unter \"iChat\"->\"Einstellungen\" lässt sich ein neuer Account hinzufügen."
+            "text":     "Durch öffnen der Einstellungen im Menü unter \"iChat\"->\"Einstellungen\" lässt sich ein neuer Account hinzufügen."
         },
         {
             "image":    "macosx-ichat3.png",
             "text":     "Als Servertyp wird Jabber oder Googletalk ausgewählt und ..."
         },
 	{
-	    "image":	"macosx-ichat4.png",
-	    "text":	"Die erforderlichen Logindaten in die Felder eingetragen."
-	},
+			"image":	"macosx-ichat4.png",
+			"text":		" in die erforderlichen Felder werden die Logindaten eingetragen."
+		},
 	{
-	    "image":	"macosx-ichat5.png",
-	    "text":	"Nach Fertigstellung des Accounts, diesen über \"iChat\"->\"Accounts\" aktivieren. (Ein Account von jabber.ccc.de im Beispiel zu sehen; je nach Server individuell)"
+			"image":	"macosx-ichat5.png",
+			"text":		"Nach Fertigstellung des Accounts, muss dieser über \"iChat\"->\"Accounts\" aktiviert werden. (Ein Account von jabber.ccc.de im Beispiel zu sehen; je nach Server individuell)"
 	}
 	
     ],
