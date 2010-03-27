@@ -1,0 +1,41 @@
+{
+    "os": "Mac OS X",
+    "client": "iChat",
+    "clientversion": "5.0.1",
+	"author": 
+		{
+			"name": "Florian Baumann",
+			"email": "flo@noqqe.de",
+			"website": "http://noqqe.de",
+			"jabber": "noqqe@jabber.ccc.de"
+		},
+    "tutorial": [	
+	{
+            "image":    "macosx-ichat1.png",
+            "text":     "Die Standardanwendung für Chats(iChat) unter Mac OS X unterstüzt Jabber. Unter im Finder unter Anwendungen lässt sich diese starten."
+        },
+	{
+            "image":    "macosx-ichat2.png",
+            "text":     "Durch öffnen der Einstellungen mit der Tastenkombination APFEL + , oder im Menü unter \"iChat\"->\"Einstellungen\" lässt sich ein neuer Account hinzufügen."
+        },
+        {
+            "image":    "macosx-ichat3.png",
+            "text":     "Als Servertyp wird Jabber oder Googletalk ausgewählt und ..."
+        },
+	{
+	    "image":	"macosx-ichat4.png",
+	    "text":	"Die erforderlichen Logindaten in die Felder eingetragen."
+	},
+	{
+	    "image":	"macosx-ichat5.png",
+	    "text":	"Nach Fertigstellung des Accounts, diesen über \"iChat\"->\"Accounts\" aktivieren. (Ein Account von jabber.ccc.de im Beispiel zu sehen; je nach Server individuell)"
+	}
+	
+    ],
+    "links": [
+        {
+            "linktext": "iChat bei Apple",
+            "url":      "http://www.apple.com/macosx/what-is-macosx/ichat.html"
+        }
+    ]
+}
