@@ -10,12 +10,13 @@
 			"jabber": "noqqe@jabber.ccc.de"
 		},
     "tutorial": [	
-	{
+		{
             "image":    "macosx-adium1.png",
-            "text":     "Den alternativen Chatclient \"Adium\" für Mac OS X kannst du dir unter http://adium.im wie oben ersichtlich herunterladen."
+            "text":     "Den alternativen Chatclient \"Adium\" für Mac OS X kannst du dir unter [[http://adium.im]] wie oben ersichtlich herunterladen."
         },
-	{
+		{
             "image":    "macosx-adium2.png",
+			"text":		"Ziehe das Adium-Icon in dein, Programm-Verzeichnis um Adium zu installieren. Anschließend suchst du Adium über den Finder und startest es mit einem Doppelklick."
         },
         {
             "image":    "macosx-adium3.png",
@@ -33,12 +34,12 @@
     ],
     "links": [
         {
-            "linktext": "Adium",
+            "linktext": "offizielle Seite von Adium",
             "url":      "http://www.adium.im"
-        }
-	{
-	    "linktext": "Adium Plugins und Anpassung"
-	    "url":	"http://adiumxtras.com"
-	}
+        },
+		{
+			"linktext": "Adium Plugins und Anpassung",
+			"url":	"http://adiumxtras.com"
+		}
     ]
 }
