@@ -28,7 +28,7 @@
         },
         {
             "image":    "winxp-pidgin6.png",
-            "text":     "Oben siehst du die Konfiguration der Installation. Nun musst du das Installationsverzeichnis für Pidgin wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke nun auf \"Weiter\"."
+            "text":     "Oben siehst du die Konfiguration der Installation. Die Standardeinstellungen sind in der Regel OK. Klicke nun auf \"Weiter\"."
         },
         {
             "image":    "winxp-pidgin7.png",
