@@ -1,0 +1,57 @@
+{
+    "os": "Android",
+    "client": "Meebo",
+    "clientversion": "V22",
+"author":
+{
+    "name": "Sven Schlaegel",
+    "website": "http://schlaegel.it",
+    "jabber": "dominus@open-host.de"
+},
+    "tutorial": [
+        {
+            "image": "meebo_android_1.jpg",
+            "text": "Meebo IM kann bequem über den Android Market installiert werden.."
+        },
+        {
+            "image": "meebo_android_2.jpg",
+            "text": "Einfach nach \"Meebo\" suchen und die App installieren."
+        },
+        {
+            "image": "meebo_android_3.jpg",
+            "text": "Wenn die Installation fertig ist, kann Meebo IM über das Menü oder die Installationsmeldung gestartet werden."
+        },
+        {
+            "image": "meebo_android_4.jpg",
+            "text": "Um Meebo IM nutzen zu können müssen zunächst die Nutzungsbedingungen anerkannt werden."
+        },
+        {
+            "image": "meebo_android_5.jpg",
+            "text": "Nun klicken wir auf Hinzufügen um ein neues Konto einzutragen."
+        },
+        {
+            "image": "meebo_android_6.jpg",
+            "text": "Unter \"Network\" wählen wir \"Jabber\" aus."
+        },
+        {
+            "image": "meebo_android_7.jpg",
+            "text": "Als nächstes geben wir unter \"login\" die vollständige Jabber-Adresse ein (zum Beispiel jabbertutorial@jabber.ccc.de) und unter \"password\" unser Passwort. Dann auf \"Hinzufügen\" klicken."
+        },
+        {
+            "image": "meebo_android_8.jpg",
+            "text": "Mit einem Klick auf \"sign on\" melden wir uns an."
+        },
+        {
+            "image": "meebo_android_9.jpg",
+            "text": "Nach dem anmelden wird nun die Kontaktliste angezeigt."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "offizielle Seite von Meebo IM",
+            "url": "http://www.meebo.com/"
+        }
+    ]
+}
+
+
