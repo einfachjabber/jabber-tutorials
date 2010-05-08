@@ -1,0 +1,53 @@
+{
+    "os": "Android",
+    "client": "Jabiru",
+    "clientversion": "30",
+"author":
+{
+    "name": "Sven Schlaegel",
+    "website": "http://schlaegel.it",
+    "jabber": "dominus@open-host.de"
+},
+    "tutorial": [
+        {
+            "image": "android_jabiru_1.png",
+            "text": "Jabiru kann bequem über den Android Market installiert werden.."
+        },
+        {
+            "image": "android_jabiru_2.png",
+            "text": "Einfach nach \"Jabiru\" suchen und die App installieren."
+        },
+        {
+            "image": "android_jabiru_3.png",
+            "text": "Wenn die Installation fertig ist, kann Jabiru über das Menü oder die Installationsmeldung gestartet werden."
+        },
+        {
+            "image": "android_jabiru_4.png",
+            "text": "Um unser Konto hinzuzufügen klicken wir einmal auf die Menütaste unseres Telefons."
+        },
+        {
+            "image": "android_jabiru_5.png",
+            "text": "Dann auf Account."
+        },
+        {
+            "image": "android_jabiru_6.png",
+			"text": "Als nächstes geben wir unter \"Jabber-ID\" die vollständige Jabber-Adresse ein (zum Beispiel jabbertutorial@jabber.ccc.de) und unter \"Password\" unser Passwort. Host kann in der Regel frei bleiben und der gewählte Port ist der Standard-Port. Bei Resource können wir wählen was wir wollen. Ist eine SSL Verschlüsselung gewünscht kann hier ein Haken gesetzt werden."
+        },
+        {
+            "image": "android_jabiru_7.png",
+            "text": "Nachdem wir wieder auf dem Grundbildschirm gelandet sind drücken wir nochmal die Menütaste des Telefons und wählen Connect."
+        },
+        {
+            "image": "android_jabiru_8.png",
+            "text": "Nach dem Anmelden wird nun die Kontaktliste angezeigt."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "offizielle Seite von Jabiru",
+            "url": "http://jabiru.mzet.net/"
+        }
+    ]
+}
+
+
