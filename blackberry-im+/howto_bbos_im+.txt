@@ -1,0 +1,90 @@
+HOWTO: Blackberry und IM+
+Getestet mit der Version 8.4.1 von IM+ auf Blackberry OS Version 5.0.0.592 auf dem Blackberry 9000 Bold.
+
+Zum Beginn sollte man mit dem Browser auf die Shapeservices Internetseite gehen.
+Die Adresse lautet http://www.shapeservices.com.
+Dort dann für den Blackberry IM+ auswählen und herunterladen.
+IM+ ist kostenpflichtig, kann aber auch für 7 Tage kostenlos probiert werden.
+
+Wenn IM+ auf dem Blackberry erfolgreich installiert ist und alle Berechtigungen gesetzt wurden, startet man die Anwendung und muss der IM+ Lizenz zustimmen.
+
+[img]bbos_im+01.png[/img]
+
+Dazu drückt man die Blackberry-Taste und wählt "Akzeptieren".
+
+[img]bbos_im+02.png[/img]
+
+Als nächster schritt wird die Datenverbindung des Gerätes überprüft um die beste Verbindung zu finden.
+Dazu "Start" drücken.
+
+[img]bbos_im+03.png[/img]
+
+Der Test erfolgt automatisch.
+
+[img]bbos_im+04.png[/img]
+
+Wenn der Test erfolgreich war, auf "Nächste(r)" drücken, um mit der Installation fortzufahren.
+
+[img]bbos_im+05.png[/img]
+
+Es folgt die Registrierung, dazu "Registrieren" auswählen.
+Alternativ kann man auch "Ausprobieren" wählen, wenn man IM+ 7 Tage testen möchte.
+
+[img]bbos_im+06.png[/img]
+
+Wenn man eine IM+ Lizenz hat, sollte dieser Schlüssel nun in das Feld "Lizenz" eingegeben werden.
+
+[img]bbos_im+07.png[/img]
+
+Danach die Blackberry-Taste drücken und "Registrieren" anwählen.
+
+[img]bbos_im+08.png[/img]
+
+Es wird eine Anfrage an Shapeservices gesendet.
+
+[img]bbos_im+09.png[/img]
+
+Bei erfolgreicher Registrierung ist IM+ im vollen Funktionsumfang freigeschaltet und einsatzbereit.
+
+[img]bbos_im+10.png[/img]
+
+Als Nächstes kommt die Konto-Einrichtung.
+Dazu bei "Dienst" den Dropdown anklicken.
+
+[img]bbos_im+11.png[/img]
+
+Dort dann "Jabber" auswählen.
+
+[img]bbos_im+12.png[/img]
+
+Bei "Login" die Jabber-ID eintragen, der Accountname wird automatisch von der Jabber-ID abgeleitet.
+Kann aber geändert werden.
+Dann noch das Passwort eintragen.
+
+[img]bbos_im+13.png[/img]
+
+Für eine sichere Verbindung zum Jabber-Server den Haken bei "SSL verwenden" setzen.
+Den Ressourcen-Namen kann man frei wählen.
+Wenn man beim Start von IM+ dieses Konto automatisch verbunden haben möchte, noch den Haken bei "Automatisch beim Start verbinden" setzen.
+
+[img]bbos_im+14.png[/img]
+
+Wenn man alles eingetragen hat, Blackberry-Taste drücken und "Nächster Schritt" auswählen.
+
+[img]bbos_im+15.png[/img]
+
+Es erfolgt eine Frage, ob man die Änderungen speichern möchte - "Speichern" drücken.
+
+[img]bbos_im+16.png[/img]
+
+Damit ist die Einrichtung des Jabber-Kontos abgeschlossen.
+IM+ fragt nun noch, ob man ein weiteres Konto einrichten möchte.
+
+[img]bbos_im+17.png[/img]
+
+Und schon ist man im Jabber Online und bekommt seine Kontaktliste angezeigt.
+
+[img]bbos_im+18.png[/img]
+
+
+

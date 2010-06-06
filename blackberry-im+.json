@@ -1,0 +1,96 @@
+{
+    "os": "Blackberry",
+    "client": "IM+",
+    "clientversion": "8.4.1",
+	"author": 
+		{
+			"name": "ODH",
+			"email": "",
+			"website": "http://odh.187skillz.de/",
+			"jabber": ""
+		},
+    "tutorial": [
+	{
+            "image":    "bbos_im+00.png",
+            "text":     "IM+ kann von der [[http://www.shapeservices.com/en/products/download.php?product=im&platform=bb|Seite von Shapeservices]] heruntergeladen werden. IM+ ist kostenpflichtig, kann aber auch für 7 Tage kostenlos probiert werden. Außerdem gibt es eine kostenlose, werbeunterstützte Lite-Version."
+        },
+	{
+            "image":    "bbos_im+01.png",
+            "text":     "Wenn IM+ auf dem Blackberry erfolgreich installiert ist und alle Berechtigungen gesetzt wurden, startet man die Anwendung und muss der IM+ Lizenz zustimmen."
+        },        
+	{
+            "image":    "bbos_im+02.png",
+            "text":     "Dazu drückt man die Blackberry-Taste und wählt \"Akzeptieren\"."
+        },	
+	{
+            "image":    "bbos_im+03.png",
+            "text":     "Als nächster schritt wird die Datenverbindung des Gerätes überprüft um die beste Verbindung zu finden. Dazu \"Start\" drücken."
+        },
+		{
+            "image":    "bbos_im+04.png",
+            "text":     "Der Test erfolgt automatisch."
+        },
+        {
+            "image":    "bbos_im+05.png",
+            "text":     "Wenn der Test erfolgreich war, auf \"Nächste(r)\" drücken, um mit der Installation fortzufahren."
+        },
+		{
+            "image":    "bbos_im+06.png",
+            "text":     "Es folgt die Registrierung, dazu \"Registrieren\" auswählen. Alternativ kann man auch \"Ausprobieren\" wählen, wenn man IM+ 7 Tage testen möchte."
+        },
+		{
+            "image":    "bbos_im+07.png",
+            "text":     "Wenn man eine IM+ Lizenz hat, sollte dieser Schlüssel nun in das Feld \"Lizenz\" eingegeben werden."
+        },
+		{
+            "image":    "bbos_im+08.png",
+            "text":     "Danach die Blackberry-Taste drücken und \"Registrieren\" anwählen."
+        },
+		{
+            "image":    "bbos_im+09.png",
+            "text":     "Es wird eine Anfrage an Shapeservices gesendet."
+        },
+		{
+            "image":    "bbos_im+10.png",
+            "text":     "Bei erfolgreicher Registrierung ist IM+ im vollen Funktionsumfang freigeschaltet und einsatzbereit."
+        },
+		{
+            "image":    "bbos_im+11.png",
+            "text":     "Als Nächstes kommt die Konto-Einrichtung. Dazu bei \"Dienst\" den Dropdown anklicken."
+        },
+		{
+            "image":    "bbos_im+12.png",
+            "text":     "Dort dann \"Jabber\" auswählen."
+        },
+		{
+            "image":    "bbos_im+13.png",
+            "text":     "Bei \"Login\" die Jabber-ID eintragen, der Accountname wird automatisch von der Jabber-ID abgeleitet. Kann aber geändert werden. Dann noch das Passwort eintragen."
+        },
+		{
+            "image":    "bbos_im+14.png",
+            "text":     "Für eine sichere Verbindung zum Jabber-Server den Haken bei \"SSL verwenden\" setzen. Den Ressourcen-Namen kann man frei wählen. Wenn man beim Start von IM+ dieses Konto automatisch verbunden haben möchte, noch den Haken bei \"Automatisch beim Start verbinden\" setzen."
+        },
+		{
+            "image":    "bbos_im+15.png",
+            "text":     "Wenn man alles eingetragen hat, Blackberry-Taste drücken und \"Nächster Schritt\" auswählen."
+        },
+		{
+            "image":    "bbos_im+16.png",
+            "text":     "Es erfolgt eine Frage, ob man die Änderungen speichern möchte - \"Speichern\" drücken."
+        },
+		{
+            "image":    "bbos_im+17.png",
+            "text":     "Damit ist die Einrichtung des Jabber-Kontos abgeschlossen. IM+ fragt nun noch, ob man ein weiteres Konto einrichten möchte."
+        },
+		{
+            "image":    "bbos_im+18.png",
+            "text":     "Und schon ist man im Jabber Online und bekommt seine Kontaktliste angezeigt."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "offizielle Seite von IM+",
+            "url":      "http://www.shapeservices.com/en/products/details.php?product=im&platform=bb"
+        }
+    ]
+}
