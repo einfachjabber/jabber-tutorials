@@ -1,7 +1,7 @@
 {
     "os": "PC-BSD",
     "client": "Pidgin",
-    "clientversion": "",
+    "clientversion": "2.6.6",
 	"author": 
 		{
 			"name": "ODH",
@@ -12,11 +12,11 @@
     "tutorial": [
 	{
             "image":    "pcbsd_pidgin01.png",
-            "text":     "Bei PC-BSD 8 muss man Pidgin noch nachinstallieren. Dazu auf dem Desktop den \"Software Manager" anklicken."
+            "text":     "Bei PC-BSD 8 muss man Pidgin noch nachinstallieren. Dazu auf dem Desktop den \"Software Manager\" anklicken."
         },
         {
             "image":    "pcbsd_pidgin02.png",
-            "text":     "Es erscheint ein Fenster, wo man das Root-Passwort eingeben muss. Danach \"OK\" klicken.
+            "text":     "Es erscheint ein Fenster, wo man das Root-Passwort eingeben muss. Danach \"OK\" klicken."
         },        
         {
             "image":    "pcbsd_pidgin03.png",

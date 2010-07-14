@@ -1,14 +1,14 @@
 {
     "os": "OpenSolaris",
     "client": "Pidgin",
-    "clientversion": "missing",
-	"author": 
-		{
-			"name": "ODH",
-			"email": "",
-			"website": "http://odh.187skillz.de/",
-			"jabber": ""
-		},
+    "clientversion": "",
+    "author": 
+      {
+        "name": "ODH",
+        "email": "",
+        "website": "http://odh.187skillz.de/",
+        "jabber": ""
+      },
     "tutorial": [
         {
             "image":    "opensolaris_pidgin01.png",
@@ -25,7 +25,7 @@
         {
             "image":    "opensolaris_pidgin04.png",
             "text":     "Als Benutzer dient der Teil deiner Jabber-Adresse, der vor dem @ steht. Der Teil nach dem @, kommt in das Feld \"Domain\". Ressource kann leer bleiben. Dein Passwort gehört in das entsprechende Feld. Mit einem Klick auf \"Hinzufügen\" wird das Fenster geschlossen. Im nachfolgenden Fenster einfach das Häckchen vor dem Account setzen und auf \"Schließen\" klicken."
-        },
+        }
     ],
     "links": [
         {

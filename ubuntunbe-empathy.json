@@ -1,0 +1,44 @@
+{
+    "os": "Ubuntu Netbook Edition",
+    "client": "Empathy",
+    "clientversion": "",
+	"author": 
+		{
+			"name": "",
+			"email": "",
+			"website": "",
+			"jabber": ""
+		},
+    "tutorial": [
+	{
+            "image":    "ubuntuNBR_empathy01.png",
+            "text":     "Beim Ubuntu Netbook Remix ist Empathy schon in der Standardinstallation enthalten. Zum Einrichten einfach den Reiter \"Favoriten\" oder \"Internet\" anklicken. Dort dann \"Empathy\" auswählen."
+        },
+        {
+            "image":    "ubuntuNBR_empathy02.png",
+            "text":     "Es folgt der Konto-Einrichtungsassistent. \"Ja, ich möchte meine bestehenden Kondotedails eingeben\" auswählen, um das bestehende Jabber-Konto einzurichten und dann auf \"Vor\" klicken."
+        },        	
+        {
+            "image":    "ubuntuNBR_empathy04.png",
+            "text":     "Bei \"Welche Art Chat-Konto haben Sie?\" muss nun \"Jabber\" ausgewählt werden."
+        },
+        {
+            "image":    "ubuntuNBR_empathy05.png",
+            "text":     "Als Protokoll wählst du XMPP und trägst deinen Benutzernamen, das ist der Teil vor dem @, in das Feld Benutzer ein. In das Feld Domain trägst du deinen Jabberserver, also der Teil nach dem @ ein. Das Feld Ressource kann freibleiben. Im Feld Passwort trägst du noch dein Passwort ein und klickst dann zum Abschluss auf \"Hinzufügen\"."
+        },
+        {
+            "image":    "ubuntuNBR_empathy06.png",
+            "text":     "Nun die Passwortabfrage des Schlüsselbundes beantworten."
+        },
+        {
+            "image":    "ubuntuNBR_empathy07.png",
+            "text":     "Die Angaben im letzten Fenster sind freiwilliger Natur und müssen nicht gemacht werden."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "offizielle Seite von Empathy",
+            "url":      ""
+        }
+    ]
+}
