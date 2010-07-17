@@ -4,10 +4,10 @@
     "clientversion": "0.12.1",
 	"author": 
 		{
-			"name": "",
-			"email": "",
-			"website": "",
-			"jabber": ""
+        "name": "ODH",
+        "email": "",
+        "website": "http://odh.187skillz.de/",
+        "jabber": ""
 		},
     "tutorial": [
 	{
