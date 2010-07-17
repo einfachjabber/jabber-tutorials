@@ -1,20 +1,20 @@
 {
-    "os": "Ubuntu",
+    "os": "Ubuntu Netbook Edition",
     "client": "Psi",
     "clientversion": "0.12.1",
 	"author": 
 		{
-			"name": "Sebastian Wagner",
+			"name": "",
 			"email": "",
 			"website": "",
-			"jabber": "sebix@jabber.ccc.de"
+			"jabber": ""
 		},
     "tutorial": [
 	{
             "image":    "ubuntuNBR_psi01.png",
             "text":     "Bei Ubuntu Netbook Remix ist Psi nicht bei der Standardinstallation enthalten.
 Dazu muss man Psi manuell nachinstallieren.
-Zum installieren einfach den Reiter \"Favoriten\" anklicken.
+Zum Installieren einfach den Reiter \"Favoriten\" anklicken.
 Dort dann \"Software Center\" auswählen."
         },
 	{
