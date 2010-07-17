@@ -1,0 +1,67 @@
+{
+    "os": "Ubuntu",
+    "client": "Psi",
+    "clientversion": "0.12.1",
+	"author": 
+		{
+			"name": "Sebastian Wagner",
+			"email": "",
+			"website": "",
+			"jabber": "sebix@jabber.ccc.de"
+		},
+    "tutorial": [
+	{
+            "image":    "ubuntuNBR_psi01.png",
+            "text":     "Bei Ubuntu Netbook Remix ist Psi nicht bei der Standardinstallation enthalten.
+Dazu muss man Psi manuell nachinstallieren.
+Zum installieren einfach den Reiter \"Favoriten\" anklicken.
+Dort dann \"Software Center\" auswählen."
+        },
+	{
+            "image":    "ubuntuNBR_psi02.png",
+            "text":     "Im Software-Center dann den Bereich \"Internet\" auswählen."
+        },        
+	{
+            "image":    "ubuntuNBR_psi03.png",
+            "text":     "Dort dann die Kategorie \"Chat\" wählen."
+        },
+	{
+            "image":    "ubuntuNBR_psi04.png",
+            "text":     "Nach \"Psi\" suchen, anwählen und \"Installieren\" anklicken."
+        },
+	{
+            "image":    "ubuntuNBR_psi05.png",
+            "text":     "Zur Installation von Software muss man sich legitimieren. Dazu das Passwort vom Ubuntu-Anmeldekonto eintragen und \"Legitimieren\" drücken."
+        },
+		{
+            "image":    "ubuntuNBR_psi06.png",
+            "text":     "Nach erfolgreicher Installation das Software-Center schliessen via \"Datei\" und dann \"Schliessen\" drücken oder die Tastenkombination Strg+W benutzen."
+        },
+        {
+            "image":    "ubuntuNBR_psi07.png",
+            "text":     "Auf dem Desktop im Reiter \"Internet\" findet man nun Psi und startet es durch klicken."
+        },
+	{
+            "image":    "ubuntuNBR_psi08.png",
+            "text":     "Es folgt der Konto-Einrichtungsassistent, leider in Englisch.
+\"Use existing account\" auswählen, um ein bestehendes Jabber-Konto einzurichten."
+        },
+	{
+            "image":    "ubuntuNBR_psi09.png",
+            "text":     "Es folgen die Konten-Einstellungen.
+
+Bei \"Jabber ID\" die komplette Jabber-ID eintragen.
+Bei \"Password\" das Kontenpasswort eintragen.
+Die Auswahlboxen nach belieben an- oder abwählen.
+
+Wenn man damit fertig ist, \"Save\" klicken.
+Und schon ist man mit Jabber online."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "Offizielle Website von Psi",
+            "url":      "http://psi-im.org"
+        }
+    ]
+}
