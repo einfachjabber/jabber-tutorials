@@ -1,0 +1,32 @@
+{
+    "os": "Webchat",
+    "client": "Meebo",
+    "clientversion": "",
+    "author": 
+      {
+        "name": "ODH",
+        "email": "",
+        "website": "http://odh.187skillz.de/",
+        "jabber": ""
+      },
+    "tutorial": [
+        {
+            "image":    "howto_meebo_xmpp01.png",
+            "text":     "Auf die Webseite [[http://www.meebo.com|www.meebo.com]] gehen. Dort dann unter den voreingestellten Chats \"Jabber\" anklicken."
+        },
+        {
+            "image":    "howto_meebo_xmpp02.png",
+            "text":     "Ein neues Chat-Anmeldefenster geht auf. Die Jabber-ID und das Kennwort eintragen und auf \"Anmelden\" klicken."
+        },
+        {
+            "image":    "howto_meebo_xmpp03.png",
+            "text":     "Und schon ist man online und kann Kontakte hinzufügen und mit diesen Chatten."
+        }
+    ],
+    "links": [
+        {
+            "linktext": "",
+            "url":      ""
+        }
+    ]
+}
