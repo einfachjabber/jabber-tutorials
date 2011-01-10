@@ -1,0 +1,41 @@
+{
+    "os": "Jolicloud",
+    "client": "Pidgin",
+    "clientversion": "",
+    "author":
+    {
+        "name": "ODH",
+        "email": "",
+        "website": "http://odh.187skillz.de/",
+        "jabber": ""
+    },
+    "tutorial": [
+    {
+        "image":    "jolicloud-pidgin01.png",
+        "text":     "Im Jolicloud Applikations-Desktop Oben Links auf den Apps-Button (+) klicken."
+    },
+    {
+        "image":    "jolicloud-pidgin02.png",
+
+        "text":     "Im \"App-Center\" die Kategorie \"Communication\" wählen und neben Pidgin den Button \"Add\" klicken."
+    },
+    {
+        "image":    "jolicloud-pidgin03.png",
+        "text":     "Nach erfolgter Installation wieder zum Applikations-Desktop (A) wechseln und Pidgin starten."
+    },
+    {
+        "image":    "jolicloud-pidgin04.png",
+        "text":     "Es folgt der Konto-Einrichtungsassistent. Hier \"Hinzufügen\" auswählen, um das Jabber-Konto einzurichten."
+    },
+    {
+        "image":    "jolicloud-pidgin05.png",
+        "text":     "Als Protokoll wählst du XMPP und trägst deinen Benutzernamen, das ist der Teil vor dem @, in das Feld Benutzer ein. In das Feld Domain trägst du deinen Jabberserver, also der Teil nach dem @ ein. Das Feld Ressource kann freibleiben. Im Feld Passwort trägst du noch dein Passwort ein und klickst dann zum Abschluss auf \"Hinzufügen\"."
+    }
+    ],
+        "links": [
+        {
+            "linktext": "offizielle Seite von Pidgin",
+            "url":      "http://pidgin.im"
+        }
+    ]
+}
