@@ -2,13 +2,13 @@
     "os": "Windows Vista / 7",
     "client": "Pidgin",
     "clientversion": "2.6.5",
-	"author": 
-		{
-			"name": "Jarwie",
-			"email": "klotz@antiwort.de",
-			"website": "",
-			"jabber": "klotz@draugr.de"
-		},
+    "author":
+        {
+            "name": "Jarwie",
+            "email": "klotz@antiwort.de",
+            "website": "",
+            "jabber": "klotz@draugr.de"
+        },
     "tutorial": [
         {
             "image":    "win7-pidgin1.png",
