@@ -1,45 +1,44 @@
 {
-    "os": "Mac OS X",
-    "client": "Adium",
-    "clientversion": "1.3.10",
-	"author": 
-		{
-			"name": "Florian Baumann",
-			"email": "flo@noqqe.de",
-			"website": "http://noqqe.de",
-			"jabber": "noqqe@jabber.ccc.de"
-		},
-    "tutorial": [	
-		{
-            "image":    "macosx-adium1.png",
-            "text":     "Den alternativen Chatclient \"Adium\" für Mac OS X kannst du dir unter [[http://adium.im]] wie oben ersichtlich herunterladen."
-        },
-		{
-            "image":    "macosx-adium2.png",
-			"text":		"Ziehe das Adium-Icon in dein, Programm-Verzeichnis um Adium zu installieren. Anschließend suchst du Adium über den Finder und startest es mit einem Doppelklick."
-        },
-        {
-            "image":    "macosx-adium3.png",
-            "text":     "Der Installationsassistent begleitet dich durch die Einrichtung von Adium."
-        },
-	{
-            "image":	"macosx-adium4.png",
-            "text":     "Wähle Jabber in der Liste der unterstützten Protokolle aus und trage deine Logindaten ein."
-        },
-	{
-            "image":	"macosx-adium5.png",
-            "text":	"Nach der Überprüfung beglückwünscht dich der Assistent und verbindet dich mit dem eingerichteten Konto."
-	}
-	
-    ],
-    "links": [
-        {
-            "linktext": "offizielle Seite von Adium",
-            "url":      "http://www.adium.im"
-        },
-		{
-			"linktext": "Adium Plugins und Anpassung",
-			"url":	"http://adiumxtras.com"
-		}
-    ]
+  "os": "Mac OS X",
+  "client": "Adium",
+  "clientversion": "1.5.6",
+  "author":
+    {
+    "name": "Florian Baumann",
+    "email": "flo@noqqe.de",
+    "website": "http://noqqe.de",
+    "jabber": "noqqe@jabber.ccc.de"
+  },
+  "tutorial": [
+    {
+      "image": "macosx-adium1.png",
+      "text": "Den alternativen Chatclient \"Adium\" für Mac OS X kannst du dir unter [[http://adium.im]] wie oben ersichtlich herunterladen."
+    },
+    {
+      "image": "macosx-adium2.png",
+      "text": "Ziehe das Adium-Icon in dein, Programm-Verzeichnis um Adium zu installieren. Anschließend suchst du Adium über den Finder und startest es mit einem Doppelklick."
+    },
+    {
+      "image": "macosx-adium3.png",
+      "text": "Der Installationsassistent begleitet dich durch die Einrichtung von Adium."
+    },
+    {
+      "image": "macosx-adium4.png",
+      "text": "Wähle Jabber in der Liste der unterstützten Protokolle aus und trage deine Logindaten ein."
+    },
+    {
+      "image": "macosx-adium5.png",
+      "text": "Nach der Überprüfung beglückwünscht dich der Assistent und verbindet dich mit dem eingerichteten Konto."
+    }
+  ],
+  "links": [
+    {
+      "linktext": "offizielle Seite von Adium",
+      "url": "http://www.adium.im"
+    },
+    {
+      "linktext": "Adium Plugins und Anpassung",
+      "url": "http://adiumxtras.com"
+    }
+  ]
 }
