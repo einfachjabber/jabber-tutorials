@@ -1,56 +1,56 @@
 {
-    "os": "Windows XP",
-    "client": "Psi",
-    "clientversion": "0.14",
-	"author": 
-		{
-			"name": "Sebastian Drews",
-			"email": "razibue@googlemail.com",
-			"website": "",
-			"jabber": "blackdeath@jabber.ccc.de"
-		},
-    "tutorial": [
-        {
-            "image":    "winxp-psi1.png",
-            "text":     "Gehe auf die [[http://www.psi-im.org/|Webseite]] und lade dir dort die aktuelle Version für Windows herunter."
-        },
-        {
-            "image":    "winxp-psi2.png",
-            "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle hier die Sprache für den Installationsprozess und klicke auf \"Ok\"."
-        },
-        {
-            "image":    "winxp-psi3.png",
-            "text":     "Der Installationsprozess startet. Klicke auf \"Weiter\" um die Installation zu beginnen."
-        },
-        {
-            "image":    "winxp-psi4.png",
-            "text":     "In diesem Fenster wird die Lizenz, unter der Psi veröffentlicht wird, angezeigt. Klicke auf \"Annehmen\" um mit der Installation fortzufahren."
-        },
-        {
-            "image":    "winxp-psi5.png",
-            "text":     "Wähle nun die Komponenten die du mitinstallieren möchtest. Im Zweifelsfall können hier die Standardeinstellungen behalten werden. Klicke auf \"Weiter\"."
-        },
-        {
-            "image":    "winxp-psi6.png",
-            "text":     "Nun musst du das Installationsverzeichnis für Psi wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke auf \"Weiter\"."
-        },
-        {
-            "image":    "winxp-psi7.png",
-            "text":     "Psi wird nun installiert. Ist der Schritt beendet erscheint obiges Bild. Setze den Haken \"Psi ausführen\" und klicke auf Fertigstellen."
-        },
-        {
-            "image":    "winxp-psi8.png",
-            "text":     "Das obige Fenster erscheint beim ersten Start von Psi. Wähle den Punkt \"Vorhandenes Benutzerkonto verwenden\" um dein Jabber-Konto zu benutzen."
-        },
-        {
-            "image":    "winxp-psi9.png",
-            "text":     "Trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Wähle anschließend noch die von dir gewünschten Optionen unter der Eingabemaske und klicke auf \"Speichern\" um dein Jabber-Konto zu nutzen."
-        }
-    ],
-    "links": [
-        {
-            "linktext": "offizielle Seite von Psi",
-            "url":      "http://psi-im.org/"
-        }
-    ]
+  "os": "Windows XP",
+  "client": "Psi",
+  "clientversion": "0.14",
+  "author":
+    {
+    "name": "Sebastian Drews",
+    "email": "razibue@googlemail.com",
+    "website": "",
+    "jabber": "blackdeath@jabber.ccc.de"
+  },
+  "tutorial": [
+    {
+    "image":    "winxp-psi1.png",
+    "text":     "Gehe auf die [[http://www.psi-im.org/|Webseite]] und lade dir dort die aktuelle Version für Windows herunter."
+  },
+  {
+    "image":    "winxp-psi2.png",
+    "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle hier die Sprache für den Installationsprozess und klicke auf \"Ok\"."
+  },
+  {
+    "image":    "winxp-psi3.png",
+    "text":     "Der Installationsprozess startet. Klicke auf \"Weiter\" um die Installation zu beginnen."
+  },
+  {
+    "image":    "winxp-psi4.png",
+    "text":     "In diesem Fenster wird die Lizenz, unter der Psi veröffentlicht wird, angezeigt. Klicke auf \"Annehmen\" um mit der Installation fortzufahren."
+  },
+  {
+    "image":    "winxp-psi5.png",
+    "text":     "Wähle nun die Komponenten die du mitinstallieren möchtest. Im Zweifelsfall können hier die Standardeinstellungen behalten werden. Klicke auf \"Weiter\"."
+  },
+  {
+    "image":    "winxp-psi6.png",
+    "text":     "Nun musst du das Installationsverzeichnis für Psi wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke auf \"Weiter\"."
+  },
+  {
+    "image":    "winxp-psi7.png",
+    "text":     "Psi wird nun installiert. Ist der Schritt beendet erscheint obiges Bild. Setze den Haken \"Psi ausführen\" und klicke auf Fertigstellen."
+  },
+  {
+    "image":    "winxp-psi8.png",
+    "text":     "Das obige Fenster erscheint beim ersten Start von Psi. Wähle den Punkt \"Vorhandenes Benutzerkonto verwenden\" um dein Jabber-Konto zu benutzen."
+  },
+  {
+    "image":    "winxp-psi9.png",
+    "text":     "Trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Wähle anschließend noch die von dir gewünschten Optionen unter der Eingabemaske und klicke auf \"Speichern\" um dein Jabber-Konto zu nutzen."
+  }
+  ],
+  "links": [
+    {
+    "linktext": "offizielle Seite von Psi",
+    "url":      "http://psi-im.org/"
+  }
+  ]
 }

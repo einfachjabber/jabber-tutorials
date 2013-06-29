@@ -1,56 +1,56 @@
 {
-    "os": "Windows Vista / 7",
-    "client": "Psi",
-    "clientversion": "0.14",
-	"author": 
-		{
-			"name": "Jarwie",
-			"email": "klotz@antiwort.de",
-			"website": "",
-			"jabber": "klotz@draugr.de"
-		},
-    "tutorial": [
-        {
-            "image":    "win7-psi1.png",
-            "text":     "Gehe auf die [[http://www.psi-im.org/|Website]] und lade dir dort die aktuelle Version für Windows herunter."
-        },
-        {
-            "image":    "win7-psi2.png",
-            "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle hier die Sprache für den Installationsprozess und klicke auf \"Ok\"."
-        },
-        {
-            "image":    "win7-psi3.png",
-            "text":     "Der Installationsprozess startet. Klicke auf \"Weiter\" um die Installation zu beginnen."
-        },
-        {
-            "image":    "win7-psi4.png",
-            "text":     "In diesem Fenster wird die Lizenz, unter der Psi veröffentlicht wird, angezeigt. Klicke auf \"Annehmen\" um mit der Installation fortzufahren."
-        },
-        {
-            "image":    "win7-psi5.png",
-            "text":     "Wähle nun die Komponenten die du mitinstallieren möchtest. Im Zweifelsfall können hier die Standardeinstellungen beibehalten werden. Klicke auf \"Weiter\"."
-        },
-        {
-            "image":    "win7-psi6.png",
-            "text":     "Nun musst du das Installationsverzeichnis für Psi wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke auf \"Weiter\"."
-        },
-        {
-            "image":    "win7-psi7.png",
-            "text":     "Psi wird nun installiert. Nach der Installation erscheint obiges Bild. Setze den Haken bei \"Psi ausführen\" und klicke auf \"Fertigstellen\"."
-        },
-        {
-            "image":    "win7-psi8.png",
-            "text":     "Das obige Fenster erscheint beim ersten Start von Psi. Wähle den Punkt \"Vorhandenes Benutzerkonto verwenden\" um dein Jabber-Konto zu benutzen."
-        },
-        {
-            "image":    "win7-psi9.png",
-            "text":     "Trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Wähle anschließend noch die von dir gewünschten Optionen unter der Eingabemaske aus und klicke auf \"Speichern\" um dein Jabber-Konto zu nutzen."
-        }
-    ],
-    "links": [
-        {
-            "linktext": "offizielle Seite von Psi",
-            "url":      "http://psi-im.org/"
-        }
-    ]
+  "os": "Windows Vista / 7",
+  "client": "Psi",
+  "clientversion": "0.15",
+  "author":
+    {
+    "name": "Jarwie",
+    "email": "klotz@antiwort.de",
+    "website": "",
+    "jabber": "klotz@draugr.de"
+  },
+  "tutorial": [
+    {
+    "image":    "win7-psi1.png",
+    "text":     "Gehe auf die [[http://www.psi-im.org/|Website]] und lade dir dort die aktuelle Version für Windows herunter."
+  },
+  {
+    "image":    "win7-psi2.png",
+    "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle hier die Sprache für den Installationsprozess und klicke auf \"Ok\"."
+  },
+  {
+    "image":    "win7-psi3.png",
+    "text":     "Der Installationsprozess startet. Klicke auf \"Weiter\" um die Installation zu beginnen."
+  },
+  {
+    "image":    "win7-psi4.png",
+    "text":     "In diesem Fenster wird die Lizenz, unter der Psi veröffentlicht wird, angezeigt. Klicke auf \"Annehmen\" um mit der Installation fortzufahren."
+  },
+  {
+    "image":    "win7-psi5.png",
+    "text":     "Wähle nun die Komponenten die du mitinstallieren möchtest. Im Zweifelsfall können hier die Standardeinstellungen beibehalten werden. Klicke auf \"Weiter\"."
+  },
+  {
+    "image":    "win7-psi6.png",
+    "text":     "Nun musst du das Installationsverzeichnis für Psi wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke auf \"Weiter\"."
+  },
+  {
+    "image":    "win7-psi7.png",
+    "text":     "Psi wird nun installiert. Nach der Installation erscheint obiges Bild. Setze den Haken bei \"Psi ausführen\" und klicke auf \"Fertigstellen\"."
+  },
+  {
+    "image":    "win7-psi8.png",
+    "text":     "Das obige Fenster erscheint beim ersten Start von Psi. Wähle den Punkt \"Vorhandenes Benutzerkonto verwenden\" um dein Jabber-Konto zu benutzen."
+  },
+  {
+    "image":    "win7-psi9.png",
+    "text":     "Trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Wähle anschließend noch die von dir gewünschten Optionen unter der Eingabemaske aus und klicke auf \"Speichern\" um dein Jabber-Konto zu nutzen."
+  }
+  ],
+  "links": [
+    {
+    "linktext": "offizielle Seite von Psi",
+    "url":      "http://psi-im.org/"
+  }
+  ]
 }
