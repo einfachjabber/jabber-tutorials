@@ -1,32 +1,40 @@
 {
-    "os": "Ubuntu",
-    "client": "Empathy",
-    "clientversion": "2.28.1.1",
-	"author": 
-		{
-			"name": "Sebastian Drews",
-			"email": "razibue@googlemail.com",
-			"website": "",
-			"jabber": "blackdeath@jabber.ccc.de"
-		},
-    "tutorial": [
-        {
-            "image":    "ubuntu-empathy0.png",
-            "text":     "Den Anwendungsstarter für Empathy findest du unter \"Anwendungen\" und dort bei \"Internet\"."
-        },
-		{
-            "image":    "ubuntu-empathy2.png",
-            "text":     "Nach dem ersten Start von Empathy wirst du mit dem obigen Fenster begrüßt. Wähle hier den dritten Eintrag und klicke auf \"Vor\"."
-        },
-        {
-            "image":    "ubuntu-empathy3-2.png",
-            "text":     "Wähle als Art des Chat-Kontos \"Jabber\" aus und trage deine Jabber-Adresse und dein Passwort in die entsprechenden Felder ein. Nach einem Klick auf \"Anwenden\" kannst du deinen Jabber Account bereits verwenden."
-        }
-    ],
-    "links": [
-        {
-            "linktext": "offizielle Seite von Empathy",
-            "url":      "http://live.gnome.org/Empathy"
-        }
-    ]
+  "os": "Ubuntu",
+  "client": "Empathy",
+  "clientversion": "3.4.2.3",
+  "author":
+    {
+    "name": "Benjamin Zimmer",
+    "email": "ben@einfachjabber.de",
+    "website": "http://benzimmer.net",
+    "jabber": "ben@einfachjabber.de"
+  },
+  "tutorial": [
+    {
+      "image":    "ubuntu-empathy-0.png",
+      "text":     "Starte Empathy durch einen Klick auf den Briefumschlag in der Menüleiste. Dort klicke auf den Eintrag \"Chat\"."
+    },
+    {
+      "image":    "ubuntu-empathy-1.png",
+      "text":     "Nach dem ersten Start von Empathy wirst du mit dem obigen Fenster begrüßt. Wähle hier \"Überspringen\"."
+    },
+    {
+      "image":    "ubuntu-empathy-2.png",
+      "text":     "Klicke hier auf das Plus in der linken unteren Ecke um ein neues Konto hinzuzufügen."
+    },
+    {
+      "image":    "ubuntu-empathy-3.png",
+      "text":     "Trage deine Jabber-Adresse in das obere und dein Passwort in das untere Feld ein. Anschließend klicke auf \"Anwenden\"."
+    },
+    {
+      "image":    "ubuntu-empathy-4.png",
+      "text":     "Danach sollte Empathy die Verbindung herstellen. Nach einem Klick auf \"Schließen\" kann das Konto zum Chatten mit Empathy verwendet werden."
+    }
+  ],
+  "links": [
+    {
+    "linktext": "offizielle Seite von Empathy",
+    "url":      "http://live.gnome.org/Empathy"
+  }
+  ]
 }
