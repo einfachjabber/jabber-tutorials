@@ -1,64 +1,64 @@
 {
-    "os": "Windows XP",
-    "client": "Pidgin",
-    "clientversion": "2.6.5",
-	"author": 
-		{
-			"name": "Ben Zimmer",
-			"email": "zero@zeroathome.de",
-			"website": "http://zeroathome.de",
-			"jabber": "zeroathome@jabber.ccc.de"
-		},
-    "tutorial": [
-        {
-            "image":    "winxp-pidgin1.png",
-            "text":     "Besuche die [[http://www.pidgin.im/download/windows|Seite]], und lade dir Pidgin durch einen Klick auf \"Download Pidgin\" herunter."
-        },
-        {
-            "image":    "winxp-pidgin3.png",
-            "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle die gewünschte Sprache aus und klicke auf \"OK\"."
-        },
-        {
-            "image":    "winxp-pidgin4.png",
-            "text":     "In diesem Fenster einfach auf \"Weiter\" klicken um zum nächsten Schritt zu gelangen."
-        },
-        {
-            "image":    "winxp-pidgin5.png",
-            "text":     "Der nächste Schritt zeigt die Lizenz, unter der Pidgin veröffentlicht ist. Da Pidgin Open Source ist, kannst du hier beruhigt auf \"Weiter\" klicken."
-        },
-        {
-            "image":    "winxp-pidgin6.png",
-            "text":     "Oben siehst du die Konfiguration der Installation. Die Standardeinstellungen sind in der Regel OK. Klicke nun auf \"Weiter\"."
-        },
-        {
-            "image":    "winxp-pidgin7.png",
-            "text":     "Um Pidgin in das vorgeschlagene Verzeichnis zu installieren (empfohlen) klicke auf \"Installieren\"."
-        },
-        {
-            "image":    "winxp-pidgin8.png",
-            "text":     "Nachdem das Installationsprogramm die Dateien auf die Festplatte kopiert hat, klicke bitte auf \"Weiter\"."
-        },
-        {
-            "image":    "winxp-pidgin9.png",
-            "text":     "Die Installation ist damit bereits beendet. Um Pidgin sofort zu starten, kannst du den Haken wie im Bild setzen und dann auf \"Fertig stellen\" klicken."
-        },
-        {
-            "image":    "winxp-pidgin10.png",
-            "text":     "Beim ersten Start von Pidgin wirst du mit dem obigen Fenster begrüßt. Um Dein Jabber-Konto einzurichten klicke bitte auf \"Hinzufügen\"."
-        },
-        {
-            "image":    "winxp-pidgin11.png",
-            "text":     "Bitte wähle das Protokoll \"XMPP\" aus. Als Benutzer dient der Teil deiner Jabber-Adresse, der vor dem @ steht. Der Teil nach dem @, kommt in das Feld \"Domain\". Das Feld Ressource kann leer bleiben. Dein Passwort gehört in das entsprechende Feld. Mit einem Klick auf \"Hinzufügen\" wird das Fenster geschlossen."
-        },
-        {
-            "image":    "winxp-pidgin12.png",
-            "text":     "Um den Account zu aktivieren, musst du den Haken in der Spalte setzen. Nach einem Klick auf \"Schließen\" kannst du deinen Jabber Account bereits verwenden."
-        }
-    ],
-    "links": [
-        {
-            "linktext": "offizielle Seite von Pidgin",
-            "url":      "http://pidgin.im"
-        }
-    ]
+  "os": "Windows XP",
+  "client": "Pidgin",
+  "clientversion": "2.10.7",
+  "author":
+    {
+    "name": "Ben Zimmer",
+    "email": "zero@zeroathome.de",
+    "website": "http://zeroathome.de",
+    "jabber": "zeroathome@jabber.ccc.de"
+  },
+  "tutorial": [
+    {
+    "image":    "winxp-pidgin1.png",
+    "text":     "Besuche die [[http://www.pidgin.im/download/windows|Seite]], und lade dir Pidgin durch einen Klick auf \"Download Pidgin\" herunter."
+  },
+  {
+    "image":    "winxp-pidgin3.png",
+    "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle die gewünschte Sprache aus und klicke auf \"OK\"."
+  },
+  {
+    "image":    "winxp-pidgin4.png",
+    "text":     "In diesem Fenster einfach auf \"Weiter\" klicken um zum nächsten Schritt zu gelangen."
+  },
+  {
+    "image":    "winxp-pidgin5.png",
+    "text":     "Der nächste Schritt zeigt die Lizenz, unter der Pidgin veröffentlicht ist. Da Pidgin Open Source ist, kannst du hier beruhigt auf \"Weiter\" klicken."
+  },
+  {
+    "image":    "winxp-pidgin6.png",
+    "text":     "Oben siehst du die Konfiguration der Installation. Die Standardeinstellungen sind in der Regel OK. Klicke nun auf \"Weiter\"."
+  },
+  {
+    "image":    "winxp-pidgin7.png",
+    "text":     "Um Pidgin in das vorgeschlagene Verzeichnis zu installieren (empfohlen) klicke auf \"Installieren\"."
+  },
+  {
+    "image":    "winxp-pidgin8.png",
+    "text":     "Nachdem das Installationsprogramm die Dateien auf die Festplatte kopiert hat, klicke bitte auf \"Weiter\"."
+  },
+  {
+    "image":    "winxp-pidgin9.png",
+    "text":     "Die Installation ist damit bereits beendet. Um Pidgin sofort zu starten, kannst du den Haken wie im Bild setzen und dann auf \"Fertig stellen\" klicken."
+  },
+  {
+    "image":    "winxp-pidgin10.png",
+    "text":     "Beim ersten Start von Pidgin wirst du mit dem obigen Fenster begrüßt. Um Dein Jabber-Konto einzurichten klicke bitte auf \"Hinzufügen\"."
+  },
+  {
+    "image":    "winxp-pidgin11.png",
+    "text":     "Bitte wähle das Protokoll \"XMPP\" aus. Als Benutzer dient der Teil deiner Jabber-Adresse, der vor dem @ steht. Der Teil nach dem @, kommt in das Feld \"Domain\". Das Feld Ressource kann leer bleiben. Dein Passwort gehört in das entsprechende Feld. Mit einem Klick auf \"Hinzufügen\" wird das Fenster geschlossen."
+  },
+  {
+    "image":    "winxp-pidgin12.png",
+    "text":     "Um den Account zu aktivieren, musst du den Haken in der Spalte setzen. Nach einem Klick auf \"Schließen\" kannst du deinen Jabber Account bereits verwenden."
+  }
+  ],
+  "links": [
+    {
+    "linktext": "offizielle Seite von Pidgin",
+    "url":      "http://pidgin.im"
+  }
+  ]
 }
