@@ -1,0 +1,35 @@
+{
+  "os": "Mint",
+  "client": "Pidgin",
+  "clientversion": "2.10.7",
+  "author": {
+    "name": "Benjamin Zimmer",
+    "email": "ben@einfachjabber.de",
+    "website": "http://benzimmer.net",
+    "jabber": "ben@einfachjabber.de"
+  },
+  "tutorial": [
+    {
+      "image":    "mint-pidgin-1.png",
+      "text":     "Suche im Anwendungs-Starter nach Pidgin und klicke auf das Icon um das Programm zu starten."
+    },
+    {
+      "image":    "mint-pidgin-2.png",
+      "text":     "Beim ersten Start begrüßt Pidgin mit dem Einrichtungs-Assistenten. Ein Klick auf \"Hinzufügen\" startet die Einrichtung des Kontos."
+    },
+    {
+      "image":    "mint-pidgin-3.png",
+      "text":     "Als Protokoll wählst du XMPP und trägst deinen Benutzernamen, das ist der Teil vor dem @, in das Feld Benutzer ein. In das Feld Domain trägst du deinen Jabberserver, also der Teil nach dem @ ein. Das Feld Ressource kann freibleiben. Im Feld Passwort trägst du noch dein Passwort ein und klickst dann zum Abschluss auf \"Hinzufügen\"."
+    },
+    {
+      "image":    "mint-pidgin-4.png",
+      "text":     "Damit ist das Konto eingerichtet und kann nach einem Klick auf \"Schließen\" benutzt werden."
+    }
+  ],
+  "links": [
+    {
+      "linktext": "offizielle Seite von Pidgin",
+      "url":      "http://pidgin.im"
+    }
+  ]
+}
