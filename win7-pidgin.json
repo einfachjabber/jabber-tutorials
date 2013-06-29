@@ -1,7 +1,7 @@
 {
-    "os": "Windows Vista / 7",
+    "os": "Windows 7",
     "client": "Pidgin",
-    "clientversion": "2.6.5",
+    "clientversion": "2.10.7",
     "author":
         {
             "name": "Jarwie",
