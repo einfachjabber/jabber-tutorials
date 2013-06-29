@@ -1,64 +1,64 @@
 {
-    "os": "Windows Vista / 7",
-    "client": "Gajim",
-    "clientversion": "0.13.2",
-	"author": 
-		{
-			"name": "Jarwie",
-			"email": "klotz@antiwort.de",
-			"website": "",
-			"jabber": "klotz@draugr.de"
-		},
-    "tutorial": [
-        {
-            "image":    "win7-gajim1.png",
-            "text":     "Gehe auf die Webseite [[http://gajim.org/downloads.php?lang=de#windows|http://gajim.org]] und lade dir dort die Windows-Installationsdatei für Gajim herunter."
-        },
-        {
-            "image":    "win7-gajim2.png",
-            "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle nun die Sprache für den Installationsprozess aus."
-        },
-        {
-            "image":    "win7-gajim3.png",
-            "text":     "Die Installation startet. Ein Klick auf \"Weiter\" führt dich zum nächsten Schritt."
-        },
-        {
-            "image":    "win7-gajim4.png",
-            "text":     "In diesem Fenster wird die Lizenz unter der Gajim veröffentlicht wird angezeigt. Klicke auf \"Annehmen\" um fortzufahren."
-        },
-        {
-            "image":    "win7-gajim5.png",
-            "text":     "Wähle nun Komponenten aus die du mitinstallieren möchtest. Im Regelfall können hier die Standardeinstellungen beibehalten werden. Klicke auf \"Weiter\"."
-        },
-        {
-            "image":    "win7-gajim6.png",
-            "text":     "Nun musst du das Installationsverzeichnis für Gajim wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke auf \"Weiter\"."
-        },
-        {
-            "image":    "win7-gajim7.png",
-            "text":     "Bestimme nun noch den Eintrag für das Startmenü. Auch hier gilt im Zweifelsfall die Standardeinstellung zu behalten. Klicke auf \"Installieren\"."
-        },
-        {
-            "image":    "win7-gajim8.png",
-            "text":     "Die Installation ist abgeschlossen. Setze den Haken bei \"Gajim ausführen\" und klicke auf \"Fertigstellen\"."
-        },
-        {
-            "image":    "win7-gajim9.png",
-            "text":     "Um dein bestehendes Jabber-Konto zu nutzen, wähle bitte die oben im Bild angegebene Option aus. Klicke auf \"Vor\"."
-        },
-        {
-            "image":    "win7-gajim10.png",
-            "text":     "Trage hier deine Zugangsdaten für deinen Jabber-Account, wie im Bild oben gezeigt, ein. Klicke anschließend auf \"Vor\"."
-        },
-        {
-            "image":    "win7-gajim11.png",
-            "text":     "Hast du deine Zugangsdaten richtig eingegeben, so erscheint diese Erfolgsmeldung. Klicke auf Beenden um dein Jabber-Konto zu nutzen."
-        }
-    ],
-    "links": [
-        {
-            "linktext": "offizielle Seite von Gajim",
-            "url":      "http://www.gajim.org"
-        }
-    ]
+  "os": "Windows 7",
+  "client": "Gajim",
+  "clientversion": "0.15.4",
+  "author":
+    {
+    "name": "Jarwie",
+    "email": "klotz@antiwort.de",
+    "website": "",
+    "jabber": "klotz@draugr.de"
+  },
+  "tutorial": [
+    {
+    "image":    "win7-gajim1.png",
+    "text":     "Gehe auf die Webseite [[http://gajim.org/downloads.php?lang=de#windows|http://gajim.org]] und lade dir dort die Windows-Installationsdatei für Gajim herunter."
+  },
+  {
+    "image":    "win7-gajim2.png",
+    "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle nun die Sprache für den Installationsprozess aus."
+  },
+  {
+    "image":    "win7-gajim3.png",
+    "text":     "Die Installation startet. Ein Klick auf \"Weiter\" führt dich zum nächsten Schritt."
+  },
+  {
+    "image":    "win7-gajim4.png",
+    "text":     "In diesem Fenster wird die Lizenz unter der Gajim veröffentlicht wird angezeigt. Klicke auf \"Annehmen\" um fortzufahren."
+  },
+  {
+    "image":    "win7-gajim5.png",
+    "text":     "Wähle nun Komponenten aus die du mitinstallieren möchtest. Im Regelfall können hier die Standardeinstellungen beibehalten werden. Klicke auf \"Weiter\"."
+  },
+  {
+    "image":    "win7-gajim6.png",
+    "text":     "Nun musst du das Installationsverzeichnis für Gajim wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke auf \"Weiter\"."
+  },
+  {
+    "image":    "win7-gajim7.png",
+    "text":     "Bestimme nun noch den Eintrag für das Startmenü. Auch hier gilt im Zweifelsfall die Standardeinstellung zu behalten. Klicke auf \"Installieren\"."
+  },
+  {
+    "image":    "win7-gajim8.png",
+    "text":     "Die Installation ist abgeschlossen. Setze den Haken bei \"Gajim ausführen\" und klicke auf \"Fertigstellen\"."
+  },
+  {
+    "image":    "win7-gajim9.png",
+    "text":     "Um dein bestehendes Jabber-Konto zu nutzen, wähle bitte die oben im Bild angegebene Option aus. Klicke auf \"Vor\"."
+  },
+  {
+    "image":    "win7-gajim10.png",
+    "text":     "Trage hier deine Zugangsdaten für deinen Jabber-Account, wie im Bild oben gezeigt, ein. Klicke anschließend auf \"Vor\"."
+  },
+  {
+    "image":    "win7-gajim11.png",
+    "text":     "Hast du deine Zugangsdaten richtig eingegeben, so erscheint diese Erfolgsmeldung. Klicke auf Beenden um dein Jabber-Konto zu nutzen."
+  }
+  ],
+  "links": [
+    {
+    "linktext": "offizielle Seite von Gajim",
+    "url":      "http://www.gajim.org"
+  }
+  ]
 }

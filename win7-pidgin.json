@@ -1,64 +1,64 @@
 {
-    "os": "Windows 7",
-    "client": "Pidgin",
-    "clientversion": "2.10.7",
-    "author":
-        {
-            "name": "Jarwie",
-            "email": "klotz@antiwort.de",
-            "website": "",
-            "jabber": "klotz@draugr.de"
-        },
-    "tutorial": [
-        {
-            "image":    "win7-pidgin1.png",
-            "text":     "Besuche die [[http://www.pidgin.im/download/windows|Website]], und lade dir Pidgin durch einen Klick auf \"Download Pidgin\" herunter."
-        },
-        {
-            "image":    "win7-pidgin2.png",
-            "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle die gewünschte Sprache aus und klicke auf \"OK\"."
-        },
-        {
-            "image":    "win7-pidgin3.png",
-            "text":     "In diesem Fenster einfach auf \"Weiter\" klicken um zum nächsten Schritt zu gelangen."
-        },
-        {
-            "image":    "win7-pidgin4.png",
-            "text":     "Der nächste Schritt zeigt die Lizenz, unter der Pidgin veröffentlicht ist. Da Pidgin Open Source ist, kannst du hier beruhigt auf \"Weiter\" klicken."
-        },
-        {
-            "image":    "win7-pidgin5.png",
-            "text":     "Oben siehst du die Konfiguration der Installation. In der Regel können die Standardeinstellungen, die im Bild zu sehen sind, übernommen werden. Klicke nun auf \"Weiter\"."
-        },
-        {
-            "image":    "win7-pidgin6.png",
-            "text":     "Nun musst du das Installationsverzeichnis für Pidgin wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke auf \"Installieren\"."
-        },
-        {
-            "image":    "win7-pidgin7.png",
-            "text":     "Nachdem das Installationsprogramm die Dateien auf die Festplatte kopiert hat, klicke bitte auf \"Weiter\"."
-        },
-        {
-            "image":    "win7-pidgin8.png",
-            "text":     "Die Installation ist damit bereits beendet. Um Pidgin sofort zu starten, kannst du den Haken wie im Bild setzen und dann auf \"Fertig stellen\" klicken."
-        },
-        {
-            "image":    "win7-pidgin9.png",
-            "text":     "Beim ersten Start von Pidgin wirst du mit dem obigen Fenster begrüßt. Um Dein Jabber-Konto einzurichten klicke bitte auf \"Hinzufügen\"."
-        },
-        {
-            "image":    "win7-pidgin10.png",
-            "text":     "Bitte wähle das Protokoll \"XMPP\" aus. Als Benutzer dient der Teil deiner Jabber-Adresse, der vor dem @ steht. Der Teil nach dem @, kommt in das Feld \"Domain\". Ressource kann leer bleiben. Dein Passwort gehört in das entsprechende Feld. Mit einem Klick auf \"Hinzufügen\" wird das Fenster geschlossen."
-        },
-        {
-            "image":    "win7-pidgin11.png",
-            "text":     "Um den Account zu aktivieren, musst du den Haken in der Spalte setzen. Nach einem Klick auf \"Schließen\" kannst du deinen Jabber Account bereits verwenden."
-        }
-    ],
-    "links": [
-        {
-            "linktext": "offizielle Seite von Pidgin",
-            "url":      "http://pidgin.im"
-        }
-    ]
+  "os": "Windows 7",
+  "client": "Pidgin",
+  "clientversion": "2.10.7",
+  "author":
+    {
+    "name": "Jarwie",
+    "email": "klotz@antiwort.de",
+    "website": "",
+    "jabber": "klotz@draugr.de"
+  },
+  "tutorial": [
+    {
+    "image":    "win7-pidgin1.png",
+    "text":     "Besuche die [[http://www.pidgin.im/download/windows|Website]], und lade dir Pidgin durch einen Klick auf \"Download Pidgin\" herunter."
+  },
+  {
+    "image":    "win7-pidgin2.png",
+    "text":     "Nach einem Doppelklick auf die heruntergeladene Datei, erscheint das obige Fenster. Wähle die gewünschte Sprache aus und klicke auf \"OK\"."
+  },
+  {
+    "image":    "win7-pidgin3.png",
+    "text":     "In diesem Fenster einfach auf \"Weiter\" klicken um zum nächsten Schritt zu gelangen."
+  },
+  {
+    "image":    "win7-pidgin4.png",
+    "text":     "Der nächste Schritt zeigt die Lizenz, unter der Pidgin veröffentlicht ist. Da Pidgin Open Source ist, kannst du hier beruhigt auf \"Weiter\" klicken."
+  },
+  {
+    "image":    "win7-pidgin5.png",
+    "text":     "Oben siehst du die Konfiguration der Installation. In der Regel können die Standardeinstellungen, die im Bild zu sehen sind, übernommen werden. Klicke nun auf \"Weiter\"."
+  },
+  {
+    "image":    "win7-pidgin6.png",
+    "text":     "Nun musst du das Installationsverzeichnis für Pidgin wählen. Bleibe im Zweifelsfall bei der Standardeinstellung. Klicke auf \"Installieren\"."
+  },
+  {
+    "image":    "win7-pidgin7.png",
+    "text":     "Nachdem das Installationsprogramm die Dateien auf die Festplatte kopiert hat, klicke bitte auf \"Weiter\"."
+  },
+  {
+    "image":    "win7-pidgin8.png",
+    "text":     "Die Installation ist damit bereits beendet. Um Pidgin sofort zu starten, kannst du den Haken wie im Bild setzen und dann auf \"Fertig stellen\" klicken."
+  },
+  {
+    "image":    "win7-pidgin9.png",
+    "text":     "Beim ersten Start von Pidgin wirst du mit dem obigen Fenster begrüßt. Um Dein Jabber-Konto einzurichten klicke bitte auf \"Hinzufügen\"."
+  },
+  {
+    "image":    "win7-pidgin10.png",
+    "text":     "Bitte wähle das Protokoll \"XMPP\" aus. Als Benutzer dient der Teil deiner Jabber-Adresse, der vor dem @ steht. Der Teil nach dem @, kommt in das Feld \"Domain\". Ressource kann leer bleiben. Dein Passwort gehört in das entsprechende Feld. Mit einem Klick auf \"Hinzufügen\" wird das Fenster geschlossen."
+  },
+  {
+    "image":    "win7-pidgin11.png",
+    "text":     "Um den Account zu aktivieren, musst du den Haken in der Spalte setzen. Nach einem Klick auf \"Schließen\" kannst du deinen Jabber Account bereits verwenden."
+  }
+  ],
+  "links": [
+    {
+    "linktext": "offizielle Seite von Pidgin",
+    "url":      "http://pidgin.im"
+  }
+  ]
 }
